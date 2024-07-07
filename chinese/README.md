@@ -1,8 +1,22 @@
-# 👋 Welcome to A Product
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# 👋 aolotto
+
+## aolotto
+
+aolotto 是首款运行在aoTheComputer上去中心化彩票协议，简单，透明，开放。当前测试网版本支持aolotto生态代币 $ALT (altoken) 购买和参与，主网版本上线后正式切换为aoTheComputer原生代币 $AO 参与，70%的 $ALT 面向社区发行，任何人均可免费获取，了解$ALT (altoken) 发行及获取详情。
 
 ## Overview
 
@@ -38,8 +52,4 @@ We've put together some helpful guides for you to get setup with our product qui
 
 {% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
 [setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
 {% endcontent-ref %}
