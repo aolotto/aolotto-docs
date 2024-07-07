@@ -22,10 +22,51 @@ layout:
 
 相比传统中心化的彩票发行机构，**aolotto**完全由协议算法确保投注与开奖过程中的公平性与透明性，无需担心黑箱操控。100%返奖率，无需承担高昂的税收损耗。**aolotto**由ao(Arweave AO的简称) + lotto(乐透简写)组成， AO是建立在Arweave永存网络上的去中心化超级并行计算机，使用**aolotto**之前您需要了解和掌握必要的AO知识和技能：
 
-* AO官方网站 ：
-* AO cookbook :
-* Arconnect ：
-* Web AOS：
+* [AO官网](https://ao.arweave.dev/) ：AO官放网站及白皮书，了解
+* AO cookbook :  新手入门AO
+* Arconnect ：Arweave钱包插件
+* Web AOS：AOS是用户
+
+### 1. 投注
+
+当前仅支持通过AOS命令行下注，web端应用即将推出。用户的单笔最小投注额为0.001 ALT，支持手选和机选000-999之间的任意3位数号码，无投注金额和次数上限。机选投注异常简单，直接向**aolotto**协议地址(wqwklmuSqSPGaeMR7dHuciyvBDtt1UjmziAoWu-pKuI)发起ALT转账即可参与最新轮次的投注。
+
+#### 1.1 机选号码
+
+```etlua
+
+AOLOTTO = "wqwklmuSqSPGaeMR7dHuciyvBDtt1UjmziAoWu-pKuI" -- 存储aolotto代理进程为全局变量
+ALT_TOKEN = "Sa0iBLPNyJQrwpTTG-tWLQU-1QeUAJA73DdxGGiKoJc" -- 存储CRED代币进程为全局变量
+
+Send({ 
+	Target = ALT_TOKEN, 
+	Action = "Transfer", 
+	Recipient = AOLOTTO, 
+	Quantity = "1" 
+})
+-- 发起转账，0.001 ALT为最小下注量，若需下注1 ALT，请将Quantity设置为“1000”；
+```
+
+发送以上消息将会收到两条回信，一条是来自于CRED\_PROCESS的支付单Debit-Notice，和一条来自于AOLOTTO的Lotto-Notice, Lotto-Notice中包含了AOLOTTO为你随机选择的号码信息。需要确保下注进程拥有足够的ALT余额，余额不足的情况下将会返回一条Transfer-Error信息。
+
+#### 1.2 自选号码
+
+{% code title="自选号码" %}
+```lua
+Send({ 
+	Target = ALT_TOKEN, 
+	Action = "Transfer", 
+	Recipient = AOLOTTO, 
+	Quantity = "2",
+	["X-Numbers"] = "007" -- 
+})
+-- 下注结果：007*2
+```
+{% endcode %}
+
+发送转账时加入X-Numbers标签可以指定特定号码参与投注，号码需要符合3位数规范，输入非法号码系统将废弃并使用随机的机选号码下注。
+
+#### 1.3 批量投注
 
 
 
