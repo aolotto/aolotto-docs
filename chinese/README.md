@@ -16,8 +16,6 @@ layout:
 
 ## 欢迎来到 aolotto
 
-**中文**   ·  [English](https://app.gitbook.com/o/AzAtUG8KaYiRbwGNfg5q/s/WWmCSvEP25hXbkY0uqAH/)    ·  <img src=".gitbook/assets/image (2).png" alt="" data-size="line">  ·  <img src=".gitbook/assets/image (3).png" alt="" data-size="line">
-
 **aolotto** 是首款运行在[Arweave AO](https://ao.arweave.dev/)(统称AO)上的去中心化彩票协议，简单，透明，开放。每间隔24小时采用随机数算法开奖，随机算法采用开奖时间戳，区块哈希[^1]值以及当前轮次的累积投注量作为随机因子，生成000-999之间的任意3位数作为幸运号码，完全匹配的投注参与均分当前轮次奖池总额的50%，剩余50%转移到下一轮次作为基础奖金。
 
 当前已开放测试网版本，支持使用**aolotto**权益代币 $ALT (altoken) 购买和参与，主网版本上线后正式切换为AO原生代币 $AO 购买参与，**aolotto**协议归社区所有**，**70%的 $ALT 面向社区发行，您可以通过水龙头免费获取$ALT。
