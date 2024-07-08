@@ -33,18 +33,21 @@ layout:
 
 #### 1.1 机选号码
 
+{% code fullWidth="false" %}
 ```lua
-AOLOTTO = "wqwklmuSqSPGaeMR7dHuciyvBDtt1UjmziAoWu-pKuI" -- 存储aolotto代理进程为全局变量
-ALT_TOKEN = "Sa0iBLPNyJQrwpTTG-tWLQU-1QeUAJA73DdxGGiKoJc" -- 存储CRED代币进程为全局变量
+-- 1. 在AOS中将aolotto 和 altoken进程ID分别设置为全局变量方便后续调用
+AOLOTTO = "wqwklmuSqSPGaeMR7dHuciyvBDtt1UjmziAoWu-pKuI" 
+ALT = "Sa0iBLPNyJQrwpTTG-tWLQU-1QeUAJA73DdxGGiKoJc" 
 
+-- 2. 发起转账，0.001 ALT为最小下注量，若需下注1 ALT，请将Quantity设置为“1000”；
 Send({ 
-	Target = ALT_TOKEN, 
+	Target = ALT, 
 	Action = "Transfer", 
 	Recipient = AOLOTTO, 
 	Quantity = "1" 
 })
--- 发起转账，0.001 ALT为最小下注量，若需下注1 ALT，请将Quantity设置为“1000”；
 ```
+{% endcode %}
 
 发送以上消息将会收到两条回信，一条是来自于CRED\_PROCESS的支付单Debit-Notice，和一条来自于AOLOTTO的Lotto-Notice, Lotto-Notice中包含了AOLOTTO为你随机选择的号码信息。需要确保下注进程拥有足够的ALT余额，余额不足的情况下将会返回一条Transfer-Error信息。
 
@@ -53,7 +56,7 @@ Send({
 {% code title="自选号码" %}
 ```lua
 Send({ 
-	Target = ALT_TOKEN, 
+	Target = ALT, 
 	Action = "Transfer", 
 	Recipient = AOLOTTO, 
 	Quantity = "2",
@@ -69,7 +72,7 @@ Send({
 
 ```lua
 Send({ 
-	Target = ALT_TOKEN, 
+	Target = ALT, 
 	Action = "Transfer", 
 	Recipient = AOLOTTO, 
 	Quantity = "3",
@@ -82,7 +85,7 @@ Send({
 
 ```lua
 Send({ 
-	Target = ALT_TOKEN, 
+	Target = ALT, 
 	Action = "Transfer", 
 	Recipient = AOLOTTO, 
 	Quantity = "10",
@@ -97,7 +100,7 @@ Send({
 
 ```lua
 Send({ 
-	Target = ALT_TOKEN, 
+	Target = ALT, 
 	Action = "Transfer", 
 	Recipient = AOLOTTO, 
 	Quantity = "3",
