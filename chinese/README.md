@@ -1,5 +1,10 @@
 ---
+cover: .gitbook/assets/full_light.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: false
   description:
@@ -15,12 +20,6 @@ layout:
 # 👋 欢迎
 
 ## 欢迎来到 aolotto
-
-<div align="left" data-full-width="false">
-
-<figure><img src=".gitbook/assets/full_light.png" alt="" width="320"><figcaption></figcaption></figure>
-
-</div>
 
 **aolotto** 是首款运行在[Arweave AO](https://ao.arweave.dev/)(统称AO)上的去中心化彩票协议，简单，透明，开放。每间隔24小时采用随机数算法开奖，随机算法采用开奖时间戳，区块哈希[^1]值以及当前轮次的累积投注量作为随机因子，生成000-999之间的任意3位数作为幸运号码，完全匹配的投注参与均分当前轮次奖池总额的50%，剩余50%转移到下一轮次作为基础奖金。
 
