@@ -16,9 +16,9 @@ layout:
 
 ## 欢迎来到 aolotto
 
-<div align="left">
+<div align="left" data-full-width="false">
 
-<figure><img src=".gitbook/assets/pure_pattern_light.png" alt="" width="160"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/full_light.png" alt="" width="320"><figcaption></figcaption></figure>
 
 </div>
 
