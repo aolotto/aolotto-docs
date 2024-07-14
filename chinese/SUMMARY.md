@@ -5,4 +5,5 @@
 * [🔍 信息查询](xin-xi-cha-xun.md)
 * [😄 抽奖](chou-jiang.md)
 * [💸 领取奖金](ling-qu-jiang-jin.md)
-* [📐 规则](gui-ze.md)
+* [📐 altoken](altoken.md)
+* [🐳 水龙头](shui-long-tou.md)
