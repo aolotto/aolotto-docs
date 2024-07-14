@@ -44,7 +44,7 @@ Send({Target=AOLOTTO,Action="GetRoundInfo",Round="1"})
 Send({Target=AOLOTTO,Action="UserInfo"})
 ```
 
-参与过投注的用户发送以上消息可以获取最新的个人的参与信息，消息发送后将会收到Action为Reply-RoundInfo的回信，使用\`Inbox\[#Inbox].Data\`打印消息正文。
+参与过投注的用户发送以上消息可以获取最新的个人的参与信息，消息发送后将会收到Action为Reply-UserInfo的回信，使用\`Inbox\[#Inbox].Data\`打印消息正文。
 
 <details>
 
