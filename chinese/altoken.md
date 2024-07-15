@@ -8,7 +8,7 @@ altoken($ALT)是aolotto生态的利润分享代币，最大发行量210,000,000,
 
 * 代币名称：altoken
 * 代币符号：$ALT
-* 代币合约地址：
+* 代币合约地址：`sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA` [ao.link](https://www.ao.link/#/token/sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA)
 * 发行总量：210,000,000
 * 初始发行量：63,000,000
 
