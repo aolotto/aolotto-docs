@@ -96,8 +96,12 @@ You've placed 3000 bets that cover 3 numbers on Round 1 :
 Send({Target=AOLOTTO,Action="Info"})
 ```
 
+向aolotto进程发送Info指令可以收到一条Reply-Info的回信，打印回信的消息主体即可查看协议的概要信息。
+
 ### 5. 查询中奖者
 
 ```lua
 Send({Target=AOLOTTO,Action="Winners",Round="1"})
 ```
+
+需要通过Round标签指定轮次，指定轮次存在且为开奖状态，将会返回一条Action为Reply-Winners的消息，打印消息主体即可查看该轮次的中奖者信息。
