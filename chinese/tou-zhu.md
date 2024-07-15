@@ -1,6 +1,6 @@
 # 🤟 投注指南
 
-**当前仅支持通过AOS命令行下注**，web端应用即将推出。用户的单笔最小投注额为0.001 ALT，支持手选和机选000-999之间的任意3位号码，无投注金额和次数上限。投注异常简单，直接向**aolotto**协议地址`wqwklmuSqSPGaeMR7dHuciyvBDtt1UjmziAoWu-pKuI`发起ALT转账即可参与最新轮次的投注。
+**当前仅支持通过AOS命令行下注**，web端应用即将推出。用户的单笔最小投注额为0.001 ALT，支持手选和机选000-999之间的任意3位号码，无投注金额和次数上限。投注异常简单，直接向**aolotto**协议地址`wqwklmuSqSPGaeMR7dHuciyvBDtt1UjmziAoWu-pKuI`发起$ALT转账即可参与最新轮次的投注。
 
 ### 1. 机选投注
 
