@@ -1,4 +1,4 @@
-# 🔍 查询
+# 🔍 信息查询
 
 在AOS中向**aolotto**进程发送消息即可查询相关信息。
 
@@ -67,7 +67,7 @@ Send({Target=AOLOTTO,Action="UserInfo"})
 ### 3. 查询投注
 
 ```lua
-Send({Target=AOLOTTO,Action="Bets",Round="1"})
+Send({Target=AOLOTTO,Action="Bets"})
 ```
 
 发送以上消息查询个人在最新轮次中的投注信息，当收到Action为Reply-UserBets的回信后，即可通过\`Inbox\[#Inbox].Data\`打印具体的投注详情。
@@ -89,3 +89,15 @@ You've placed 3000 bets that cover 3 numbers on Round 1 :
 ```
 
 </details>
+
+### 4.查询协议信息
+
+```lua
+Send({Target=AOLOTTO,Action="Info"})
+```
+
+### 5. 查询中奖者
+
+```lua
+Send({Target=AOLOTTO,Action="Winners",Round="1"})
+```
