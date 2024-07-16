@@ -29,9 +29,9 @@ Compared to centralized lottery agencies, **aolotto** has a 100% payout, and the
 
 ### Guides
 
-The **aolotto\*ALT** betting process currently only supports interaction through AOS. The Web Application will be released soon. Interacting through AOS is not complicated. You can master the essential commands in 10 minutes by following the guides below.
+The **aolotto\*ALT** betting process currently only supports interaction through AOS. The Web Application will be released soon. Interacting through AOS is not complicated. You can master the essential commands in 10 minutes by following the guidelines below.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Betting</strong></mark></td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Querying</strong></mark></td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Claim Rewards</strong></mark></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Betting</strong></mark></td><td>Common betting options include quick pick and manual pick.</td><td></td><td><a href="betting.md">betting.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Querying</strong></mark></td><td>Checking the information and status of the betting process</td><td></td><td><a href="querying.md">querying.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Claim Rewards</strong></mark></td><td>Send a message to claim the rewards to your process/wallet.</td><td></td><td><a href="claim-rewards.md">claim-rewards.md</a></td></tr></tbody></table>
 
 ### Get to know Rules
 
