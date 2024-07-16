@@ -41,7 +41,7 @@ The **aolotto\*ALT** betting process currently only supports interaction through
 
 $ALT is the profit-sharing token of the **aolotto** ecosystem, with a total supply of 210,000,000, and it is 100% fairly issued to the community. $ALT holders can share 90% of the profits contributed by all betting processes in the **aolotto** ecosystem.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Faucet</strong></mark></td><td>10% of the total supply will be airdropped for free via the faucet.</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Betting-as-Mining</strong></mark></td><td>70% of the total supply is linearly minted by betting-as-mining.</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Faucet</strong></mark></td><td>Airdrop 10% of the total supply to early birds via the faucet.</td><td></td><td><a href="faucet.md">faucet.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Betting-as-Mining</strong></mark></td><td>70% of the total supply is linearly minted by Betting-as-Mining.</td><td></td><td><a href="altoken.md">altoken.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Contributor's Fund</strong></mark></td><td>The 20% held by Aolotto Foundation will be awarded to community contributors</td><td></td><td><a href="altoken.md">altoken.md</a></td></tr></tbody></table>
 
 ### Offical Links
 
