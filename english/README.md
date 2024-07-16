@@ -35,13 +35,19 @@ The **aolotto\*ALT** betting process currently only supports interaction through
 
 ### Get to know Rules
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Round ends</td><td></td><td></td></tr><tr><td>Lucky Number</td><td></td><td></td></tr><tr><td>Reward issue</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Round Switching</strong></mark></td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Lucky Number</strong></mark></td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Rewards Distribution</strong></mark></td><td></td><td></td></tr></tbody></table>
 
 ### Get $ALT
 
 $ALT is the profit-sharing token of the **aolotto** ecosystem, with a total supply of 210,000,000, and it is 100% fairly issued to the community. $ALT holders can share 90% of the profits contributed by all betting processes in the **aolotto** ecosystem.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Faucet</td><td></td><td></td></tr><tr><td>Betting as Mining</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Faucet</strong></mark></td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Betting as Mining</strong></mark></td><td></td><td></td></tr></tbody></table>
 
 ### Offical Links
+
+* discord: [https://discord.com/invite/BFhkUCRjmF](https://discord.com/invite/BFhkUCRjmF)
+* X(twitter):  [@aolotto\_dao](https://x.com/aolotto\_dao)
+* github: [https://github.com/aolotto/aolotto](https://github.com/aolotto/aolotto)
+* \*ALT betting process: `2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY` [ao.link](https://www.ao.link/#/entity/2vheopvdwEfont-jQC\_G9--6bV2hGn-IzlHxsq4CLWY)
+* $ALT token process:  `sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA`[ao.link](https://www.ao.link/#/token/sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA)
 
