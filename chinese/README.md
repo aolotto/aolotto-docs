@@ -18,7 +18,7 @@ layout:
 
 当前开放了基于**aolotto**利润共享代币 $ALT ([altoken](altoken.md))的投注进程**\*ALT**，支持使用$ALT 下注， $ALT 100%面向社区公平发行，您可以通过[水龙头](shui-long-tou.md)免费获取$ALT 参与测试。未来，**aolotto**将逐步开放其他AO标准代币的投注进程，基于AO原生代币的投注进程(**aolotto\*AO**)将于明年2月$AO流通后开放。
 
-相比中心化的彩票发行机构，**aolotto**返奖率高达**100%**，完全由协议算法确保投注与开奖过程中的公平性与透明性，无法黑箱操控。**aolotto**由ao(Arweave AO的简称) + lotto(乐透简写)组成， AO是建立在Arweave永存网络上的去中心化超级并行计算机，使用**aolotto**之前您需要了解和掌握必要的AOS知识和技能，AO [cookbook](https://cookbook\_ao.arweave.dev/)入门。
+相比中心化的彩票发行机构，**aolotto**返奖率高达**100%**，完全由协议算法确保投注与开奖过程中的公平性与透明性，无法黑箱操控。**aolotto**由ao(Arweave AO的简称) + lotto(乐透简写)组成， AO是建立在Arweave永存网络上的去中心化超级并行计算机，使用**aolotto**之前您需要了解和掌握必要的AOS知识和技能，AO [cookbook](https://cookbook\_ao.arweave.dev/)可以帮您入门。
 
 ### 使用指南
 
