@@ -35,13 +35,13 @@ The **aolotto\*ALT** betting process currently only supports interaction through
 
 ### Get to know Rules
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Round Switching</strong></mark></td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Lucky Number</strong></mark></td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Rewards Distribution</strong></mark></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Round Switching</strong></mark></td><td>A round ends every 24 hours and triggers the lottery draw</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Lucky Number</strong></mark></td><td>Lucky numbers are drawn by algorithms without human control.</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Rewards Distribution</strong></mark></td><td>Rewards are distributed in proportion to the bets placed by each winner.</td><td></td></tr></tbody></table>
 
 ### Get $ALT
 
 $ALT is the profit-sharing token of the **aolotto** ecosystem, with a total supply of 210,000,000, and it is 100% fairly issued to the community. $ALT holders can share 90% of the profits contributed by all betting processes in the **aolotto** ecosystem.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Faucet</strong></mark></td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Betting as Mining</strong></mark></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Faucet</strong></mark></td><td>10% of the total supply will be airdropped for free via the faucet.</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Betting-as-Mining</strong></mark></td><td>70% of the total supply is linearly minted by betting-as-mining.</td><td></td></tr></tbody></table>
 
 ### Offical Links
 
