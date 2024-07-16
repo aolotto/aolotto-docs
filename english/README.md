@@ -23,7 +23,7 @@ layout:
 
 **aolotto** is the first decentralized lottery protocol running on [Arweave AO](https://ao.arweave.dev/), which is simple, transparent, and open. A round ends every 24 hours and uses an algorithm to draw. The block hash after the round ends, the amount of bets, and other factors are used as the seed for the algorithm to generate a 3-digit lucky number between 000-999. The bets that match perfectly will share 50% of the total prize pool, and the remaining 50% will be transferred to the next round as the basic bonus.
 
-Currently, we've only launched a betting process (a lottery pool based on a smart contract) for $ALT([altoken](altoken.md)), which is the profit-sharing token of the aolotto ecosystem. The **aolotto\*ALT** process only supports using $ALT to buy or bet.  All the $ALT will be 100% fairly launched to the community. Early birds can get $ALT for free via [the faucet](faucet.md) . In the future, **aolotto** will gradually launch the betting processes for other AO standard tokens. The process based on the AO native token (**aolotto\*AO**) will be launched after $AO is circulated in February next year.
+Currently, we've only launched a betting process (a lottery pool based on a smart contract) for $ALT([altoken](altoken.md)), which is the profit-sharing token of the aolotto ecosystem. The **aolotto\*ALT** process only supports using $ALT to buy or bet.  All the $ALT will be 100% fairly launched to the community. Early birds can get $ALT for free via [the faucet](faucet.md) . In the future, **aolotto** will gradually launch the betting processes for other AO standard tokens. The process based on the AO native token (**aolotto\*AO**) will be launched after $AO is circulated in February 2025.
 
 Compared to centralized lottery agencies, **aolotto** has a 100% payout, and the fairness and transparency of both betting and lottery drawing are completely ensured by the algorithm, which cannot be black boxed. **aolotto** stands for **ao** (short for Arweave AO) + **lotto**. AO is a decentralized parallel computer built on the Arweave permanent network. Before using **aolotto**, you need to understand and master the necessary AOS knowledge and skills. The AO [cookbook](https://cookbook\_ao.arweave.dev/) can help you get started.
 
@@ -33,11 +33,11 @@ The **aolotto\*ALT** betting process currently only supports interaction through
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Betting</strong></mark></td><td>Common betting options include quick pick and manual pick.</td><td></td><td><a href="betting.md">betting.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Querying</strong></mark></td><td>Checking the information and status of the betting process</td><td></td><td><a href="querying.md">querying.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Claim Rewards</strong></mark></td><td>Send a message to claim the rewards to your process/wallet.</td><td></td><td><a href="claim-rewards.md">claim-rewards.md</a></td></tr></tbody></table>
 
-### Get to know Rules
+### Get to know the Rules
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Round Switching</strong></mark></td><td>A round ends every 24 hours and triggers the lottery draw</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Lucky Number</strong></mark></td><td>Lucky numbers are drawn by algorithms without human control.</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Rewards Distribution</strong></mark></td><td>Rewards are distributed in proportion to the bets placed by each winner.</td><td></td></tr></tbody></table>
 
-### Get $ALT
+### Get $ALT token
 
 $ALT is the profit-sharing token of the **aolotto** ecosystem, with a total supply of 210,000,000, and it is 100% fairly issued to the community. $ALT holders can share 90% of the profits contributed by all betting processes in the **aolotto** ecosystem.
 
