@@ -40,11 +40,11 @@ $ALT是aolotto生态的利润共享和生态治理代币，总量为210,000,000,
 
 ### 官方链接
 
-* discord:&#x20;
-* X(twitter):
-* github:
-* aolotto\*ALT 合约：
-* altoken合约：
+* discord: [https://discord.com/invite/BFhkUCRjmF](https://discord.com/invite/BFhkUCRjmF)
+* X(twitter):  [@aolotto\_dao](https://x.com/aolotto\_dao)
+* github: [https://github.com/aolotto/aolotto](https://github.com/aolotto/aolotto)
+* \*ALT 投注进程: `2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY` [ao.link](https://www.ao.link/#/entity/2vheopvdwEfont-jQC\_G9--6bV2hGn-IzlHxsq4CLWY)
+* $ALT 代币进程:  `sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA`[ao.link](https://www.ao.link/#/token/sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA)
 
 [^1]: 区块链哈希值是一串固定长度的字符串
 
