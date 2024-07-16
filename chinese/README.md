@@ -28,11 +28,13 @@ layout:
 
 ### 了解规则
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>轮次切换</td><td></td><td></td></tr><tr><td>开奖</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>轮次切换</td><td></td><td></td></tr><tr><td>开奖</td><td></td><td></td></tr></tbody></table>
 
 ### 获取$ALT
 
+$ALT是aolotto生态的利润共享和生态治理代币，总量为210,000,000, 100%面向社区公平发行， $ALT者可以分享aolotto所有投注进程所产生全部收益的90%；
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>水龙头</td><td></td><td></td></tr><tr><td>投注及挖矿</td><td></td><td></td></tr><tr><td>发行细节</td><td></td><td></td></tr></tbody></table>
 
 ### 官方链接
 
