@@ -1,7 +1,7 @@
 ---
 layout:
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -14,69 +14,19 @@ layout:
 
 # 👋 欢迎
 
-## 欢迎来到 aolotto
+**aolotto** 是首款运行在[Arweave AO](https://ao.arweave.dev/)(统称AO)上的去中心化彩票协议，简单，透明且开放。每间隔24小时结束一轮并使用算法抽奖，采用轮次结束后的区块哈希[^1]值以及投注量等信息作为算法依据，生成000-999之间的任意3位幸运号码，完全匹配的投注均分奖池总额的50%，剩余50%转移到下一轮次作为基础奖金。
 
-**aolotto** 是首款运行在[Arweave AO](https://ao.arweave.dev/)(统称AO)上的去中心化彩票协议，简单，透明，开放。每间隔24小时结束一轮并使用算法抽奖，采用轮次结束后的区块哈希[^1]值以及累积投注量等信息作为算法依据，生成000-999之间的任意3位幸运号码，完全匹配的投注均分奖池总额的50%，剩余50%转移到下一轮次作为基础奖金。
+当前开放了基于**aolotto**利润共享代币 $ALT ([altoken](altoken.md))的投注进程，支持使用$ALT 下注， $ALT 100%面向社区公平发行，您可以通过[水龙头](shui-long-tou.md)免费获取$ALT 参与测试。未来，**aolotto**将逐步开放其他AO标准代币的投注进程，基于AO原生代币的投注进程将于明年2月$AO流通后开放。
 
-当前开放测试网版本，支持使用**aolotto**利润共享代币 $ALT (altoken) 购买和参与，AO原生代币释放后将推出主网版本，支持 $AO 下注参与。作为通用彩票协议，**aolotto**支持使用任何AO网络标准的代币进行部署，协议完全开源且归社区所有**，** $ALT 100%面向社区公平发行，您可以通过水龙头免费获取$ALT 参与测试。
+相比中心化的彩票发行机构，**aolotto**返奖率高达**100%**，完全由协议算法确保投注与开奖过程中的公平性与透明性，无法黑箱操控。**aolotto**由ao(Arweave AO的简称) + lotto(乐透简写)组成， AO是建立在Arweave永存网络上的去中心化超级并行计算机，使用**aolotto**之前您需要了解和掌握必要的AO知识和技能，AO [cookbook](https://cookbook\_ao.arweave.dev/)入门。
 
-相比传统中心化的彩票发行机构，**aolotto**返奖率高达**100%**，完全由协议算法确保投注与开奖过程中的公平性与透明性，无法黑箱操控。**aolotto**由ao(Arweave AO的简称) + lotto(乐透简写)组成， AO是建立在Arweave永存网络上的去中心化超级并行计算机，使用**aolotto**之前您需要了解和掌握必要的AO知识和技能：
 
-* [AO官网](https://ao.arweave.dev/) ：AO官放网站及白皮书，了解
-* AO cookbook :  新手入门AO
-* Arconnect ：Arweave钱包插件
-* Web AOS：AOS是用户
 
-### 1. 投注
+### s指南
 
-**当前仅支持通过AOS命令行下注**，web端应用即将推出。用户的单笔最小投注额为0.001 ALT，支持手选和机选000-999之间的任意3位号码，无投注金额和次数上限。投注异常简单，直接向**aolotto**协议地址`wqwklmuSqSPGaeMR7dHuciyvBDtt1UjmziAoWu-pKuI`发起ALT转账即可参与最新轮次的投注。
+aolotto的ALT投注进程当前
 
-####
-
-### 2. 抽奖
-
-触发器每间隔2分钟检测当前轮次状态，满足条件自动结束并切换到下一轮次，否则当前轮次继续进行：
-
-1. **间隔时间≥24小时**，触发时间比对轮次启动时间大于等于24小时，则满足轮次结束的时间条件；
-2. **用户投注金额≥基础奖金**，启动当前轮次时会将上一轮次的50%奖池余额计入为基础奖金，当前轮次所有用户的累积投注金额大于或等于基础奖金，则满足参与度条件；
-3. 如间隔时间**≥168小时当前轮次累积投注量仍然小雨奖池中的基础奖金，当前轮次强行取消并自动退还用户的投注金，基础奖金放入下一轮次。**
-
-#### 2.1 轮次切换通知
-
-轮次结束后，将向所有用户下发轮次切换通知Round-Notice,  若轮次为强行取消，参与者还会收到相应的退款通知；
-
-#### 2.2 幸运号码
-
-轮次结束后的第5个区块高度上开奖并生成幸运号码，幸运号码基于Issac Cipher的随机数函数生成，使用开奖区块的Hash值, 轮次累积投注人数以及数量等无法提前预知因子作为随机函数的种子输入，保证幸运号码生成具有随机性，可验证性和不可预测性：
-
-1. 不可预测性：Arweave的区块Hash是基于区块全部交易内容生成的唯一性ID，采用轮次结束后的第5个区块的hash，意味着任何人在下注期间完全无法预知开奖算法的种子。
-2. 可验证性：issac cipher的随机数函数在种子确定的情况下生成的结果也是确定的，意味着通过CU节点生成的幸运号码可被验证，规避CU（计算单元）节点在执行中进行黑箱操作的可能性；
-3. 取值分布的随机性：3位数号码并非一次性生成，而是逐位调用随机函数，将统一的种子和位置编号作为输入，分别生成0-9之间的随机数值，保证了3位数号码取值分布的随机性。
-
-<details>
-
-<summary>幸运号码生成算法示例</summary>
-
-```lua
-local seed = Block.Hash..Round.TotalBets..Round.Participator
-
-local getLuckyNumber = function(seed,len)
-  local numbers = ""
-  for i = 1, len or 3 do
-    local n = crypto.cipher.issac.random(0, 9, tostring(i)..seed..numbers)
-    numbers = numbers .. n
-  end
-  return numbers
-end
-
-local luckyNumber = getLuckyNumber(seed,3)
-```
-
-</details>
-
-#### 2.3 奖金下发
-
-所有中奖的投注将会均分轮次中奖池总额的50%，轮次进行中支持赞助者添加额外的奖金赞助，赞助部分全额计入到本轮奖金中。奖金总额=(奖池基础奖金+用户投注金额)\*0.5 + 赞助金，参与者地址按照中奖投注于总量的占比均分, 中奖者将会在开奖之后，收到又系统下发的\`Reward-Notice\`。
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>投注</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 
 
