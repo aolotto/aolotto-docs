@@ -22,13 +22,15 @@ layout:
 
 ### 使用指南
 
-**aolotto\*ALT**投注进程当前仅支持使用AOS进行交互，Web版即将发布，下列指南可以帮助你在10分钟内学会使用AOS与**\*ALT**交互。
+**aolotto\*ALT**投注进程当前仅支持使用AOS交互，Web版将于近期发布，下列指南可以帮助你在10分钟内学会使用AOS与**\*ALT**交互。
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>投注</strong></mark></td><td>反反复复</td><td></td></tr><tr><td><mark style="color:purple;"><strong>查询</strong></mark></td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>领奖</strong></mark></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>投注</strong></mark></td><td>不同类型的投注指令，支持机选，手选号码。</td><td></td></tr><tr><td><mark style="color:purple;"><strong>查询</strong></mark></td><td>通过指令获取进程状态和信息</td><td></td></tr><tr><td><mark style="color:purple;"><strong>领奖</strong></mark></td><td>发送指令领取奖金到钱包或私人进程</td><td></td></tr></tbody></table>
 
 ### 了解规则
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>轮次切换</td><td></td><td></td></tr><tr><td>开奖</td><td></td><td></td></tr></tbody></table>
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>轮次切换</td><td></td><td></td></tr><tr><td>开奖</td><td></td><td></td></tr><tr><td>奖金分发</td><td></td><td></td></tr></tbody></table>
 
 ### 获取$ALT
 
