@@ -26,6 +26,20 @@ layout:
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>投注</strong></mark></td><td>反反复复</td><td></td></tr><tr><td><mark style="color:purple;"><strong>查询</strong></mark></td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>领奖</strong></mark></td><td></td><td></td></tr></tbody></table>
 
+### 了解规则
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>轮次切换</td><td></td><td></td></tr><tr><td>开奖</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+### 获取$ALT
+
+
+
+### 官方链接
+
+* discord:
+* X(twitter):
+* github:
+* aolotto\*ALT 合约：
+* altoken合约：
 
 [^1]: 区块链哈希值是一串固定长度的字符串
