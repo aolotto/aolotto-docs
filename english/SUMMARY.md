@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome](README.md)
+* [👏 Welcome](README.md)
 * [🎲 Betting](betting.md)
 * [🔍 Querying](querying.md)
 * [🌟 Draw & Rules](draw-and-rules.md)
