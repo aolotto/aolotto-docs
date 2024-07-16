@@ -24,7 +24,7 @@ layout:
 
 **aolotto\*ALT**投注进程当前仅支持使用AOS进行交互，Web版即将发布，下列指南可以帮助你在10分钟内学会使用AOS与**\*ALT**交互。
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>投注</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>投注</strong></mark></td><td>反反复复</td><td></td></tr><tr><td><mark style="color:purple;"><strong>查询</strong></mark></td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>领奖</strong></mark></td><td></td><td></td></tr></tbody></table>
 
 
 
