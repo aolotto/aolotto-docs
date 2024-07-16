@@ -27,7 +27,21 @@ Currently, the betting process **\*ALT** based on the **aolotto** profit-sharing
 
 Compared to centralized lottery agencies, **aolotto** has a 100% payout, and the fairness and transparency of both betting and lottery drawing are completely ensured by the algorithm, which cannot be black boxed. **aolotto** stands for **ao** (short for Arweave AO) + **lotto**. AO is a decentralized parallel computer built on the Arweave permanent network. Before using **aolotto**, you need to understand and master the necessary AOS knowledge and skills. The AO [cookbook](https://cookbook\_ao.arweave.dev/) can help you get started.
 
-### Guide
+### Guides
 
+The **aolotto\*ALT** betting process currently only supports interaction through AOS. The Web Application will be released soon. Interacting through AOS is not complicated. You can master the essential commands in 10 minutes by following the guides below.
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Betting</strong></mark></td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Querying</strong></mark></td><td></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Claim Rewards</strong></mark></td><td></td><td></td></tr></tbody></table>
+
+### Get to know Rules
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Round ends</td><td></td><td></td></tr><tr><td>Lucky Number</td><td></td><td></td></tr><tr><td>Reward issue</td><td></td><td></td></tr></tbody></table>
+
+### Get $ALT
+
+$ALT is the profit-sharing token of the **aolotto** ecosystem, with a total supply of 210,000,000, and it is 100% fairly issued to the community. $ALT holders can share 90% of the profits contributed by all betting processes in the **aolotto** ecosystem.
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Faucet</td><td></td><td></td></tr><tr><td>Betting as Mining</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+### Offical Links
 
