@@ -8,7 +8,7 @@ layout:
     visible: false
     size: full
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -19,9 +19,7 @@ layout:
     visible: true
 ---
 
-# 🥲 aolotto
-
-## Welcome to aolotto
+# 👋 Welcome
 
 **aolotto** is the first decentralized lottery protocol running on Arweave AO (collectively referred to as AO), which is simple, transparent and open. A round ends every 24 hours and is drawn through an algorithm. The block hash value after the round ends and the accumulated bet amount are used as the algorithm basis to generate any 3-digit number between 000-999 as the lucky number. The bets with completely matched numbers will share 50% of the total prize pool, and the remaining 50% will be transferred to the next round as the basic bonus.
 
