@@ -1,20 +1,25 @@
-# 🤟 投注指南
+# 🤟 投注
 
-**当前仅支持通过AOS命令行下注**，web端应用即将推出。用户的单笔最小投注额为0.001 ALT，支持手选和机选000-999之间的任意3位号码，无投注金额和次数上限。投注异常简单，直接向**aolotto**协议地址`wqwklmuSqSPGaeMR7dHuciyvBDtt1UjmziAoWu-pKuI`发起$ALT转账即可参与最新轮次的投注。
+**当前仅支持通过AOS命令行下注**，Web端应用即将推出，最小投注金额为0.001 ALT，支持手选和机选000-999之间的3位号码，无投注金额和次数上限。投注AOLOTTO\*ALT异常简单，直接向奖池进程发起$ALT转账即可参与最新轮次。
 
 ### 1. 机选投注
 
 {% code fullWidth="false" %}
 ```lua
--- 1. 在AOS中将aolotto 和 altoken进程ID分别设置为全局变量方便后续调用
-AOLOTTO = "wqwklmuSqSPGaeMR7dHuciyvBDtt1UjmziAoWu-pKuI" 
+--[[
+	在AOS中将Aolotto Pool和altoken进程ID分别设置为全局变量POOL和ALT,方便后续调用
+]]--
+POOL = "wqwklmuSqSPGaeMR7dHuciyvBDtt1UjmziAoWu-pKuI" 
 ALT = "dzkRvtoLH6mtIW893eJSO4vdJBc-JT8N1fnBmcDVWdY" 
 
--- 2. 发起转账，0.001 ALT为最小下注量，若需下注1 ALT，请将Quantity设置为“1000”；
+--[[
+	在AOS中发起转账，Recipient填写为设置好的全局变量POOL;
+	请将Quantity设置为你希望投注的金额,ALT精度
+]]--
 Send({ 
 	Target = ALT, 
 	Action = "Transfer", 
-	Recipient = AOLOTTO, 
+	Recipient = POOL, 
 	Quantity = "1" 
 })
 ```
@@ -28,7 +33,7 @@ Send({
 Send({ 
 	Target = ALT, 
 	Action = "Transfer", 
-	Recipient = AOLOTTO, 
+	Recipient = POOL, 
 	Quantity = "2",
 	["X-Numbers"] = "007" -- 000-999之间的任意3位数字
 })
@@ -43,7 +48,7 @@ Send({
 Send({ 
 	Target = ALT, 
 	Action = "Transfer", 
-	Recipient = AOLOTTO, 
+	Recipient = POOL, 
 	Quantity = "3",
 	["X-Numbers"] = "000,001,002" -- 号码之间使用","间隔
 })
@@ -58,7 +63,7 @@ Send({
 Send({ 
 	Target = ALT, 
 	Action = "Transfer", 
-	Recipient = AOLOTTO, 
+	Recipient = POOL, 
 	Quantity = "10",
 	["X-Numbers"] = "000-009" -- 使用“-”代表取值区间；
 })
@@ -73,7 +78,7 @@ Send({
 Send({ 
 	Target = ALT, 
 	Action = "Transfer", 
-	Recipient = AOLOTTO, 
+	Recipient = POOL, 
 	Quantity = "3",
 	["X-Numbers"] = "000,001,002",
 	["X-Donee"] = "j0Lrrv1ltimsYnD_5f-8Fp3QKcAbUjckn7kjCZCfvhk" -- 添加受益人tag和地址，地址务必为aos process地址，AR钱包地址无法发起提取奖金的请求；
