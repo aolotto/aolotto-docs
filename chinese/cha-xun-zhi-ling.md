@@ -91,7 +91,7 @@ You've placed 3000 bets that cover 3 numbers on Round 1 :
 ### 查询奖池信息
 
 ```lua
-Send({Target=AOLOTTO,Action="Info"})
+Send({Target=POOL,Action="Info"})
 ```
 
 向aolotto进程发送Info指令可以收到一条Reply-Info的回信，打印回信的消息主体即可查看协议的概要信息。
