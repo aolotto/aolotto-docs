@@ -52,4 +52,6 @@ $ALT is the profit-sharing token of the **Aolotto** ecosystem, with a total supp
 * Github : [https://github.com/aolotto/aolotto](https://github.com/aolotto/aolotto)
 * AOLOTTO\*ALT Pool process : `2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY` [ao.link](https://www.ao.link/#/entity/2vheopvdwEfont-jQC\_G9--6bV2hGn-IzlHxsq4CLWY)
 * $ALT token process :  `sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA`[ao.link](https://www.ao.link/#/token/sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA)
+* The faucet : `qOyriGqikTM1RxJ_n4HQ-27E5fnnW97cln8phLvjebc` [ao.link](https://www.ao.link/#/entity/qOyriGqikTM1RxJ\_n4HQ-27E5fnnW97cln8phLvjebc)
+* Aolotto Fundation : `5PwOcPRPmAJH_Fd-tXlGzISbeUxInGXl8pvu-tIUvwI` [ao.link](https://www.ao.link/#/entity/5PwOcPRPmAJH\_Fd-tXlGzISbeUxInGXl8pvu-tIUvwI)
 
