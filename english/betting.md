@@ -86,4 +86,12 @@ Send({
 -- 以上投注中奖后，奖金将会分配给受益人，但投注量将会叠加到购买人信息中。
 ```
 
-fff&#x20;
+Generally, the purchase address is the beneficiary, and the winnings are distributed to the purchase address by default. However, you can add another address as a beneficiary using the `X-Donee` tag. You can set the address of your friends or family as a lottery gift.
+
+### Check your bets
+
+```lua
+Send({Target=POOL, Action="Bets"})
+```
+
+Send the message above to view the betting results of the current round. [Click here](querying.md) to learn about more query commands.
