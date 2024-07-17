@@ -1,22 +1,20 @@
-# 🔍 信息查询
+# 🔍 查询指令
 
-在AOS中向**aolotto**进程发送消息即可查询相关信息。
+列举常用的查询指令，直接在AOS中输入一下指令收到相应的回复信息，收到回信后，输入`Inbox[#Inbox].Data`即可打印查询结果。
 
-### 1. 查询轮次信息
-
-```lua
-Send({Target=AOLOTTO,Action="GetRoundInfo"})
-```
-
-向**aolotto**进程发送`GetRoundInfo`可查询当前进行轮次的信息,消息发送后将会收到一条Action为`Reply-RoundInfo`的回复。
+### 查询轮次信息
 
 ```lua
-Send({Target=AOLOTTO,Action="GetRoundInfo",Round="1"})
+Send({Target=POOL,Action="GetRoundInfo"})
 ```
 
-添加Round标签，可以查询指定轮次的信息，若指定的轮次未开始或不存在将会收到一条Action为\`Error\`的错误回复。
+查询当前进行轮次的信息, 回信标识为`Reply-RoundInfo`
 
-收到回复消息后，可通过\`Inbox\[#Inbox].Data\`打印消息正文.
+```lua
+Send({Target=POOL,Action="GetRoundInfo",Round="1"})
+```
+
+添加Round标签，可以查询指定轮次的信息，若指定的轮次未开始或不存在回信为Error.
 
 <details>
 
@@ -38,10 +36,10 @@ Send({Target=AOLOTTO,Action="GetRoundInfo",Round="1"})
 
 </details>
 
-### 2. 查询个人信息
+### 查询个人信息
 
 ```lua
-Send({Target=AOLOTTO,Action="UserInfo"})
+Send({Target=POOL,Action="UserInfo"})
 ```
 
 参与过投注的用户发送以上消息可以获取最新的个人的参与信息，消息发送后将会收到Action为Reply-UserInfo的回信，使用\`Inbox\[#Inbox].Data\`打印消息正文。
@@ -64,16 +62,16 @@ Send({Target=AOLOTTO,Action="UserInfo"})
 
 </details>
 
-### 3. 查询投注
+### 查询投注
 
 ```lua
-Send({Target=AOLOTTO,Action="Bets"})
+Send({Target=POOL,Action="Bets"})
 ```
 
 发送以上消息查询个人在最新轮次中的投注信息，当收到Action为Reply-UserBets的回信后，即可通过\`Inbox\[#Inbox].Data\`打印具体的投注详情。
 
 ```lua
-Send({Target=AOLOTTO,Action="Bets",Round="1"})
+Send({Target=POOL,Action="Bets",Round="1"})
 ```
 
 添加Round标签可以查询指定轮次的投注情况。如过查询的轮次不存在或未在该轮次下注，将会收到Error回信，\`Inbox\[#Inbox].Data\`打印具体的错误信息。
@@ -90,7 +88,7 @@ You've placed 3000 bets that cover 3 numbers on Round 1 :
 
 </details>
 
-### 4.查询协议信息
+### 查询奖池信息
 
 ```lua
 Send({Target=AOLOTTO,Action="Info"})
@@ -98,7 +96,7 @@ Send({Target=AOLOTTO,Action="Info"})
 
 向aolotto进程发送Info指令可以收到一条Reply-Info的回信，打印回信的消息主体即可查看协议的概要信息。
 
-### 5. 查询中奖者
+### 查询中奖者
 
 ```lua
 Send({Target=AOLOTTO,Action="Winners",Round="1"})

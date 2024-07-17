@@ -97,4 +97,4 @@ Send({
 Send({Target=POOL, Action="Bets"})
 ```
 
-[点击这里](xin-xi-cha-xun.md)，学习更多的查询指令。
+[点击这里](cha-xun-zhi-ling.md)，学习更多的查询指令。
