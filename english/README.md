@@ -21,7 +21,7 @@ layout:
 
 # 👏 Welcome
 
-**Aolotto** is the first decentralized lottery protocol running on [Arweave AO](https://ao.arweave.dev/), which is simple, transparent, and open. A round ends every 24 hours and uses an algorithm to draw. The block hash after the round ends, the amount of bets, and other factors are used as the seed for the algorithm to generate a 3-digit lucky number between 000-999. The bets that match perfectly will share 50% of the total prize pool, and the remaining 50% will be transferred to the next round as the basic bonus.
+**Aolotto** is the first decentralized lottery protocol running on [Arweave AO](https://ao.arweave.dev/), which is simple, transparent, and open. A round ends every 24 hours and uses an algorithm to draw. The block hash after the round ends, the amount of bets, and other factors are used as the seed for the algorithm to generate a 3-digit lucky number between 000-999. The bets that match perfectly will share 50% of the total prize pool, The remaining 50% will be used for the next round as the basic bonus.
 
 Currently, we've only launched a pool for $ALT([altoken](altoken.md)), which is the profit-sharing token of the **Aolotto** ecosystem. The **AOLOTTO\*ALT** pool only supports using $ALT to buy or bet.  All the $ALT will be 100% fairly launched to the community. Early birds can get for free via [the faucet](faucet.md) . In the future, **Aolotto** will gradually launch pools for any AO standard tokens. The **AOLOTTO\*AO** pool based on the AO native token will be launched after February 2025 when $AO is circulated.
 
@@ -48,6 +48,6 @@ $ALT is the profit-sharing token of the **Aolotto** ecosystem, with a total supp
 * Discord : [https://discord.com/invite/BFhkUCRjmF](https://discord.com/invite/BFhkUCRjmF)
 * X(twitter) :  [@aolotto\_dao](https://x.com/aolotto\_dao)
 * Github : [https://github.com/aolotto/aolotto](https://github.com/aolotto/aolotto)
-* AOLOTTO\*ALT pool process : `2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY` [ao.link](https://www.ao.link/#/entity/2vheopvdwEfont-jQC\_G9--6bV2hGn-IzlHxsq4CLWY)
+* AOLOTTO\*ALT Pool process : `2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY` [ao.link](https://www.ao.link/#/entity/2vheopvdwEfont-jQC\_G9--6bV2hGn-IzlHxsq4CLWY)
 * $ALT token process :  `sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA`[ao.link](https://www.ao.link/#/token/sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA)
 
