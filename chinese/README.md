@@ -42,13 +42,13 @@ $ALT是aolotto生态的利润共享和生态治理代币，总量为210,000,000,
 
 ### 官方链接
 
-* discord: [https://discord.com/invite/BFhkUCRjmF](https://discord.com/invite/BFhkUCRjmF)
-* X(twitter):  [@aolotto\_dao](https://x.com/aolotto\_dao)
-* github: [https://github.com/aolotto/aolotto](https://github.com/aolotto/aolotto)
-* AOLOTTO\*ALT 奖池进程: `2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY` [ao.link](https://www.ao.link/#/entity/2vheopvdwEfont-jQC\_G9--6bV2hGn-IzlHxsq4CLWY)
-* $ALT 代币进程:  `sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA`[ao.link](https://www.ao.link/#/token/sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA)
-* ALT水龙头：`qOyriGqikTM1RxJ_n4HQ-27E5fnnW97cln8phLvjebc` [ao.link](https://www.ao.link/#/entity/qOyriGqikTM1RxJ\_n4HQ-27E5fnnW97cln8phLvjebc)
-*
+* Discord : [https://discord.com/invite/BFhkUCRjmF](https://discord.com/invite/BFhkUCRjmF)
+* X(twitter) :  [@aolotto\_dao](https://x.com/aolotto\_dao)
+* Github : [https://github.com/aolotto/aolotto](https://github.com/aolotto/aolotto)
+* AOLOTTO\*ALT 奖池进程 : `2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY` [ao.link](https://www.ao.link/#/entity/2vheopvdwEfont-jQC\_G9--6bV2hGn-IzlHxsq4CLWY)
+* $ALT 代币进程 : `sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA`[ao.link](https://www.ao.link/#/token/sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA)
+* ALT水龙头 : `qOyriGqikTM1RxJ_n4HQ-27E5fnnW97cln8phLvjebc` [ao.link](https://www.ao.link/#/entity/qOyriGqikTM1RxJ\_n4HQ-27E5fnnW97cln8phLvjebc)
+* Aolotto Fundation : `5PwOcPRPmAJH_Fd-tXlGzISbeUxInGXl8pvu-tIUvwI` [ao.link](https://www.ao.link/#/entity/5PwOcPRPmAJH\_Fd-tXlGzISbeUxInGXl8pvu-tIUvwI)
 
 [^1]: 区块链哈希值是一串固定长度的字符串
 
