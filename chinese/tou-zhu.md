@@ -7,14 +7,15 @@
 {% code fullWidth="false" %}
 ```lua
 --[[
-	在AOS中将Aolotto Pool和altoken进程ID分别设置为全局变量POOL和ALT,方便后续调用
+	在AOS中将Aolotto Pool和altoken进程ID分别设置为全局变量POOL和ALT,以便后续调用。
 ]]--
 POOL = "wqwklmuSqSPGaeMR7dHuciyvBDtt1UjmziAoWu-pKuI" 
 ALT = "dzkRvtoLH6mtIW893eJSO4vdJBc-JT8N1fnBmcDVWdY" 
 
 --[[
 	在AOS中发起转账，Recipient填写为设置好的全局变量POOL;
-	请将Quantity设置为你希望投注的金额,ALT精度
+	请将Quantity设置为你希望投注的金额,ALT精度为3位，1意味着实际的投注金额为0.001ALT；
+	如果你希望投注1ALT，请将Quantity设置为'1000';
 ]]--
 Send({ 
 	Target = ALT, 
@@ -25,7 +26,7 @@ Send({
 ```
 {% endcode %}
 
-向ALT代币进程发起转账，Quantity代表您需要下注的数量，“1”代表最小的下注单位0.001 ALT，发送转账消息后，在进程或者钱包地址余额充足的情况下，将会一条是来自于ALT代币进程回复的`Debit-Notice`，和一条来自于AOLOTTO进程的`Lotto-Notice`, `Lotto-Notice`中包含了AOLOTTO为你随机选择的号码信息。若下注进程或钱包地址上ALT余额不足，ALT代币进程将会回复`Transfer-Error`信息，不会触发AOLOTTO投注。
+直接向ALT代币进程发起转账，在账户余额充足的情况下，您将成功参与到最新的投注轮次中，由于转账消息中不包含任何的号码信息，系统会自动为您随机选择号码，投注成功后您将收到一条Action为`Lotto-Notice`的回信，输入Inbox\[#Inbox].Data即可打印Lotto-Notice的正文内容，包含了随机算法帮您选择的号码信息。若私人进程或钱包地址上$ALT余额不足将会收到一条`Transfer-Error`信息，投注失败。
 
 ### 2. 手选投注
 
@@ -40,7 +41,7 @@ Send({
 -- 下注结果：007*2
 ```
 
-发送转账时加入`X-Numbers`可以手动指定号码参与投注，号码需要符合3位数规范，非法号码系统将自动废弃并使用随机的机选号码下注。
+如果您希望在投注时自己选择心仪的号码，发送转账时加入`X-Numbers`即可，号码需要遵循3位数规范，非法号码系统将自动过滤并采用算法生成的随机号码。
 
 ### 3 批量投注
 
@@ -86,8 +87,14 @@ Send({
 -- 以上投注中奖后，奖金将会分配给受益人，但投注量将会叠加到购买人信息中。
 ```
 
-默认情况下，购买地址就是受益人，但是可以通过X-Donee标签添加其它地址作为中奖受益人，你可以将受益人设置为你朋友的地址，实现投注赠送。
-
-
+默认情况下，购买地址就是受益人，中奖奖金默认分发到购买地址上。但是可以通过X-Donee标签添加其它地址作为中奖受益人，你可以将受益人设置为你朋友或家人的地址，赠送投注。
 
 ### 6. 投注查询
+
+如果想查看最新轮次的投注结果，直接向奖池进程发起查询即可：
+
+```lua
+Send({Target=POOL, Action="Bets"})
+```
+
+[点击这里](xin-xi-cha-xun.md)，学习更多的查询指令。
