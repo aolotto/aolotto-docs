@@ -35,6 +35,8 @@ The **AOLOTTO\*ALT** pool s currently only supports interaction through AOS. The
 
 ### Get to know the Rules
 
+Understanding the rules of the Aolotto protocol can help you make better betting decisions.
+
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Round Switching</strong></mark></td><td>A round ends every 24 hours and triggers the lottery draw</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Lucky Number</strong></mark></td><td>Lucky numbers are drawn by algorithms without human control.</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Rewards Distribution</strong></mark></td><td>Rewards are distributed in proportion to the bets placed by each winner.</td><td></td></tr></tbody></table>
 
 ### Get $ALT token
