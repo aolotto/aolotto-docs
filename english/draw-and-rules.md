@@ -30,6 +30,13 @@ After the round ends, 50% of the pool balance will be transferred to the next ro
 
 For rounds that do not meet the lottery conditions and are forcibly cancelled, the participants' bets will be refunded. This scenario is not included in the rules described above.
 
-### Check drawing results
+### Check lottery results
 
 After the draw, the winner will receive a **Win-Notice** from the Pool process. Use `Inbox[#Inbox].Data` to print the message text to view the specific winning amount. If you miss the message, you can query the winners of the round using the command below.
+
+```lua
+Send({Target=POOL,Action="Winners",Round="1"})
+-- 将Round替换为您想查询的轮次编号
+```
+
+You can also follow Aolotto official [Discord](https://discord.com/invite/BFhkUCRjmF) to get the latest winning announcement in real time.
