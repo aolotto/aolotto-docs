@@ -21,21 +21,21 @@ layout:
 
 # 👏 Welcome
 
-**Aolotto** is the first decentralized lottery protocol running on [Arweave AO](https://ao.arweave.dev/), which is simple, transparent, and open. A round ends every 24 hours and uses an algorithm to draw. The block hash after the round ends, the amount of bets, and other factors are used as the seed for the algorithm to generate a 3-digit lucky number between 000-999. The bets that match perfectly will share 50% of the total prize pool, The remaining 50% will be used for the next round as the basic bonus.
+**Aolotto** is the first decentralized lottery protocol built on [Arweave AO](https://ao.arweave.dev/), which is Simple, Transparent, and Open. Each round lasts 24 hours and ends with a draw by algorithms. The block hash after the round ends, the amount of bets, and other factors are used as the seed for the algorithm to generate a 3-digit lucky number between 000-999. The bets that match perfectly will share 50% of the total prize pool, The remaining 50% will be used for the next round as the basic bonus.
 
-Currently, we've only launched a pool for $ALT([altoken](altoken.md)), which is the profit-sharing token of the **Aolotto** ecosystem. The **AOLOTTO\*ALT** pool only supports using $ALT to buy or bet.  All the $ALT will be 100% fairly launched to the community. Early birds can get for free via [the faucet](faucet.md) . In the future, **Aolotto** will gradually launch pools for any AO standard tokens. The **AOLOTTO\*AO** pool based on the AO native token will be launched after February 2025 when $AO is circulated.
+Currently, we've only launched a pool for $ALT([altoken](altoken.md)), which is the profit-sharing token of the **Aolotto** ecosystem. The **AOLOTTO\*ALT** pool only supports using $ALT to buy or bet.  All the $ALT will be 100% fairly launched to the community. Early birds can get for free via [the faucet](faucet.md) . In the future, **Aolotto** will gradually launch other pools for AO standard tokens. The **AOLOTTO\*AO** pool based on the AO native token will be launched after February 2025 when $AO is circulated.
 
-Compared to centralized lottery agencies, **Aolotto** has a 100% payout, and the fairness and transparency of both betting and drawing are completely ensured by the algorithm, which cannot be black boxed. **Aolotto** stands for **AO** (short for Arweave AO) + **lotto**. AO is a decentralized parallel computer built on the Arweave permanent network. Before using **Aolotto**, you need to understand and master the basic AOS knowledge and skills. The AO [cookbook](https://cookbook\_ao.arweave.dev/) can help you get started.
+Compared to centralized lottery agencies, **Aolotto** has a 100% payout, and the fairness and transparency of both betting and drawing are completely ensured by the algorithm, which cannot be black boxed. **Aolotto** stands for **AO** (short for Arweave AO) + **lotto**. AO is a decentralized parallel computer built on the [Arweave](https://arweave.org/) permanent network. Before using **Aolotto**, you need to understand and master the basic AOS knowledge and skills. The AO [cookbook](https://cookbook\_ao.arweave.dev/) can help you get started.
 
 ### Guides
 
-The **AOLOTTO\*ALT** pool s currently only supports interaction through AOS. The Web Application will be released soon. Interacting through AOS is not complicated. You can master the essential commands in 10 minutes by following the guidelines below.
+The **AOLOTTO\*ALT** pool currently only supports interaction on AOS. The Web Application will be released soon. Interacting with AOS is not complicated. You can master the essential commands in 10 minutes by following the guidelines below.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Betting</strong></mark></td><td>Common betting options include quick pick and manual pick.</td><td></td><td><a href="betting.md">betting.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Querying</strong></mark></td><td>Checking the information and status of the betting process</td><td></td><td><a href="querying.md">querying.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Claim Rewards</strong></mark></td><td>Send a message to claim the rewards to your process/wallet.</td><td></td><td><a href="claim-rewards.md">claim-rewards.md</a></td></tr></tbody></table>
 
 ### Get to know the Rules
 
-Understanding the rules of the Aolotto protocol can help you make better betting decisions.
+Understanding the rules of the **Aolotto** protocol can help you make better betting decisions.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Round Switching</strong></mark></td><td>A round ends every 24 hours and triggers the lottery draw</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Lucky Number</strong></mark></td><td>Lucky numbers are drawn by algorithms without human control.</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Rewards Distribution</strong></mark></td><td>Rewards are distributed in proportion to the bets placed by each winner.</td><td></td></tr></tbody></table>
 
