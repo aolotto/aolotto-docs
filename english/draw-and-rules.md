@@ -29,3 +29,7 @@ After the round ends, 50% of the pool balance will be transferred to the next ro
 2. **Winning bet ≥1**, If there are one or more winning bets, the winners with winning bets share the bonus equally: actual bonus for each winner = bonus / total winning bets \* winner's winning bets.
 
 For rounds that do not meet the lottery conditions and are forcibly cancelled, the participants' bets will be refunded. This scenario is not included in the rules described above.
+
+### Check drawing results
+
+After the draw, the winner will receive a **Win-Notice** from the Pool process. Use `Inbox[#Inbox].Data` to print the message text to view the specific winning amount. If you miss the message, you can query the winners of the round using the command below.
