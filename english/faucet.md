@@ -2,7 +2,7 @@
 
 21,000,000 $ALT (10% of the total) will be airdropped to users via the faucet process. Join the **Aolotto** official [Discord](https://discord.com/invite/BFhkUCRjmF) to get $ALT tokens for free. Each Discord account can only receive it once, and the airdrop amount of a single account will decrease linearly based on the cumulative number of recipients.
 
-1. The initial airdrop amount is 2100 $ALT and 0.001% of the total tap amount;
+1. The initial airdrop amount of a single account is 2100 $ALT and 0.001% of the total faucet amount;
 2. For every 10 additional recipients, the airdrop amount will be updated to 0.001% of the remaining amount in the faucet;
 3. Aolotto officials will permanently close the faucet at some point in the future, and the remaining faucet will be distributed to community builders in the form of other activities.
 
