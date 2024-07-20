@@ -6,7 +6,7 @@ Holding $ALT also allows participation in the decentralized governance of Aolott
 
 ### Token Details <a href="#dai-bi-xiang-qing" id="dai-bi-xiang-qing"></a>
 
-* Name : altoken
+* Name : Altoken
 * Ticker : $ALT
 * Token process: `sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA` [ao.link](https://www.ao.link/#/token/sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA)
 * Max Supply: 210,000,000
@@ -14,7 +14,10 @@ Holding $ALT also allows participation in the decentralized governance of Aolott
 
 ### Distribution <a href="#fa-xing-xi-jie" id="fa-xing-xi-jie"></a>
 
-$ALT is 100% lunched fairly to the community. The initial **30%** (63,000,000) is held by AolottoFundation and faucet addresses respectively. Early bird users can get tokens for free through the faucet to participate in the AOLOTTO\*ALT prize pool betting, or they can follow the official activities to participate in the Aolotto ecosystem construction to get contributor rewards. The remaining **70%** (147,000,000) is issued linearly through **betting and mining** . Note: AolottoFundation holding address, faucet address, and $ALT process address cannot participate in betting.
+$ALT is 100% launched fairly to the community. The initial **30%** (63,000,000) is held by the AolottoFoundation and the faucet address respectively. Early bird users can get tokens for free via the faucet to bet in the AOLOTTO\*ALT pool, or they can participate in official events to get contributor rewards. The remaining **70%** (147,000,000) is issued linearly through **betting and mining**. \
+
+
+PS: The AolottoFoundation holding address, the faucet address, and $ALT token process cannot participate in betting.
 
 ### Betting as Mining <a href="#tou-zhu-ji-wa-kuang" id="tou-zhu-ji-wa-kuang"></a>
 
