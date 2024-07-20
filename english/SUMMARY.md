@@ -5,5 +5,5 @@
 * [🔍 Querying](querying.md)
 * [🌟 Draw & Rules](draw-and-rules.md)
 * [💸 Claim Rewards](claim-rewards.md)
-* [🪙 altoken](altoken.md)
+* [🪙 Altoken](altoken.md)
 * [🚰 Faucet](faucet.md)
