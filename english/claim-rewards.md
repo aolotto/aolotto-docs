@@ -8,7 +8,7 @@ Send({Target=POOL,Action="Claim"})
 
 After sending the claiming message, if the rewards balance is sufficient, you will receive a `Credit-Notice` message and your rewards balance will be cleared. If your rewards balance is less than 0.001 ALT, you will receive an `Error` message. It is recommended that you continue to bet and withdraw all your rewards at once after the balance accumulates to more than 0.01 ALT.
 
-### About income tax <a href="#guan-yu-suo-de-shui" id="guan-yu-suo-de-shui"></a>
+### Income tax <a href="#guan-yu-suo-de-shui" id="guan-yu-suo-de-shui"></a>
 
 **Aolotto** has a payout rate of 100%, with only a 10% income tax levied on winning users for the sustainable development of the ecosystem.&#x20;
 
