@@ -6,27 +6,27 @@ Holding $ALT can also participate in the decentralized governance of the aolotto
 
 ### Token Details <a href="#dai-bi-xiang-qing" id="dai-bi-xiang-qing"></a>
 
-* Token name: altoken
-* Token Symbol: $ALT
-* Token contract address: `sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA` [ao.link](https://www.ao.link/#/token/sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA)
-* Total Issued: 210,000,000
-* Initial circulation: 63,000,000
+* Name : altoken
+* Ticker : $ALT
+* Token process: `sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA` [ao.link](https://www.ao.link/#/token/sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA)
+* Max Supply: 210,000,000
+* Initial Supply: 63,000,000
 
-#### Release Details <a href="#fa-xing-xi-jie" id="fa-xing-xi-jie"></a>
+### Distribution <a href="#fa-xing-xi-jie" id="fa-xing-xi-jie"></a>
 
-$ALT is 100% issued fairly to the community. The initial **30%** (63,000,000) is held by AolottoFundation and faucet addresses respectively. Early bird users can get tokens for free through the faucet to participate in the AOLOTTO\*ALT prize pool betting, or they can follow the official activities to participate in the Aolotto ecosystem construction to get contributor rewards. The remaining **70%** (147,000,000) is issued linearly through **betting and mining** . Note: AolottoFundation holding address, faucet address, and $ALT process address cannot participate in betting.
+$ALT is 100% lunched fairly to the community. The initial **30%** (63,000,000) is held by AolottoFundation and faucet addresses respectively. Early bird users can get tokens for free through the faucet to participate in the AOLOTTO\*ALT prize pool betting, or they can follow the official activities to participate in the Aolotto ecosystem construction to get contributor rewards. The remaining **70%** (147,000,000) is issued linearly through **betting and mining** . Note: AolottoFundation holding address, faucet address, and $ALT process address cannot participate in betting.
 
-#### Betting and Mining <a href="#tou-zhu-ji-wa-kuang" id="tou-zhu-ji-wa-kuang"></a>
+### Betting as Mining <a href="#tou-zhu-ji-wa-kuang" id="tou-zhu-ji-wa-kuang"></a>
 
 70% of the total $ALT and 147,000,000 tokens are issued linearly based on the $ALT betting protocol. After each round of lottery, the altoken process will be triggered to cast 0.01% of the remaining supply. The newly minted tokens are uniformly transferred to the betting process, and are distributed to the user's bonus balance according to the proportion of the user's cumulative betting volume in the betting process. Users manually receive them in a private process or wallet address.
 
-#### Contributor Incentives <a href="#gong-xian-zhe-ji-li" id="gong-xian-zhe-ji-li"></a>
+### Contributor's Fund <a href="#gong-xian-zhe-ji-li" id="gong-xian-zhe-ji-li"></a>
 
 The initial issuance of 42,000,000 $ALT will be held by AolottoFundation, which will be used to incentivize contributors and early investors in the community, including but not limited to development, operation and promotion. The details of AolottoFundation's expenditure will be disclosed in the Discord community, and you can also pay close attention to and participate in official activities released in the community to receive $ALT rewards.
 
-#### Profit Sharing <a href="#li-run-fen-xiang" id="li-run-fen-xiang"></a>
+### Profit Sharing <a href="#li-run-fen-xiang" id="li-run-fen-xiang"></a>
 
-**aolotto** will gradually open betting agreements for different types of tokens. The betting agreement will uniformly collect a fixed amount of income tax (10%, the community can vote to adjust the tax ratio) from the winning users, and the tax revenue will be distributed fairly to $ALT holders in proportion.
+**Aolotto** will gradually open betting agreements for different types of tokens. The betting agreement will uniformly collect a fixed amount of income tax (10%, the community can vote to adjust the tax ratio) from the winning users, and the tax revenue will be distributed fairly to $ALT holders in proportion.
 
 1. Calculation formula: Share amount = Accumulated tax benefits \* ($ALT holdings / $ALT circulation)
 2. Profits are distributed in real time. After the betting round ends, profits are settled in real time and sent to all $ALT holder addresses;
