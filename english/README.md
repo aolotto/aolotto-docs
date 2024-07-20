@@ -25,7 +25,7 @@ layout:
 
 Currently, we've only launched a pool for $ALT([altoken](altoken.md)), which is the profit-sharing token of the **Aolotto** ecosystem. The **AOLOTTO\*ALT** pool only supports using $ALT to buy or bet.  All the $ALT will be 100% fairly launched to the community. Early birds can get for free via [the faucet](faucet.md) . In the future, **Aolotto** will gradually launch other pools for AO standard tokens. The **AOLOTTO\*AO** pool based on the AO native token will be launched after February 2025 when $AO is circulated.
 
-Compared to centralized lottery agencies, **Aolotto** has a 100% payout, and the fairness and transparency of both betting and drawing are completely ensured by the algorithm, which cannot be black boxed. **Aolotto** stands for **AO** (short for Arweave AO) + **lotto**. AO is a decentralized parallel computer built on the [Arweave](https://arweave.org/) permanent network. Before using **Aolotto**, you need to understand and master the basic AOS knowledge and skills. The AO [cookbook](https://cookbook\_ao.arweave.dev/) can help you get started.
+Compared to centralized lottery agencies, **Aolotto** has a 100% payout rate, and the fairness and transparency of both betting and drawing are completely ensured by the algorithm, which cannot be black boxed. **Aolotto** stands for **AO** (short for Arweave AO) + **lotto**. AO is a decentralized parallel computer built on the [Arweave](https://arweave.org/) permanent network. Before using **Aolotto**, you need to understand and master the basic AOS knowledge and skills. The AO [cookbook](https://cookbook\_ao.arweave.dev/) can help you get started.
 
 ### Guides
 
