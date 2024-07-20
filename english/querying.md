@@ -5,7 +5,11 @@ List commonly used query commands below. Simply enter the desired command in AOS
 ### Round Info
 
 ```lua
-Send({Target=POOL,Action="GetRoundInfo"})
+Send({Target=POOL,Action="GetRoundInfo"}
+```
+
+```lua
+Send({Target=POOL,Action="GetRoundInfo",Round="1"})
 ```
 
 ### User Info
@@ -20,6 +24,10 @@ Send({Target=POOL,Action="UserInfo"})
 Send({Target=POOL,Action="Bets"})
 ```
 
+```lua
+Send({Target=POOL,Action="Bets",Round="1"})
+```
+
 ### The Pool Info
 
 ```lua
@@ -27,6 +35,10 @@ Send({Target=POOL,Action="Info"})
 ```
 
 ### The winners
+
+```lua
+Send({Target=POOL,Action="Winners",Round="1"})
+```
 
 ```lua
 Send({Target=POOL,Action="Winners",Round="1"})
