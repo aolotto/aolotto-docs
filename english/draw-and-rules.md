@@ -1,6 +1,6 @@
 # 🌟 Draw & Rules
 
-Normally, each round of betting lasts for 24 hours. The betting rate of the round needs to be greater than or equal to 100% to meet the conditions for a draw. The pool trigger will check every 2 minutes. The round that meets the conditions for the prize draw will automatically end, and then the next round will be started.
+Normally, each round of betting lasts for 24 hours. The betting rate of the round needs to be greater than or equal to 100% to meet the conditions for a draw. The trigger will check every 2 minutes. The round that meets the conditions for the prize draw will automatically end, and then the next round will be started.
 
 1. **The Round Duration ≥ 24 hours**, and the difference between the end time and the start time must be ≥ 24 hours.
 2. **The Betting Rate ≥ 100%**, When a round starts, 50% of the previous round's pool balance will be counted as the basic bonus. Betting rate = (total betting amount / basic bonus) \* 100%.
