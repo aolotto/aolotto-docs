@@ -1,6 +1,6 @@
 # 🔍 Querying
 
-List commonly used query commands below. Simply enter the following command in AOS for your querying. You can print the results by `Inbox[#Inbox].Data` after receiving responses.
+List commonly used query commands below. Simply enter the following command in AOS for your query. You can print the results by `Inbox[#Inbox].Data` after receiving responses.
 
 ### Round Info
 
@@ -58,7 +58,7 @@ Send({Target=POOL,Action="Bets",Round="1"})
 
 Add the Round tag to query your betting details in the target round.
 
-### The Infomation of the pool
+### The information of the pool
 
 ```lua
 Send({Target=POOL,Action="Info"})
