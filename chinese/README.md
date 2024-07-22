@@ -36,9 +36,9 @@ PS：中文区用户安装AOS通常会面临命令行没有设置科学代理无
 
 ### 获取$ALT
 
-$ALT是aolotto生态的利润共享和生态治理代币，总量为210,000,000, 100%面向社区公平发行， $ALT者可以分享aolotto所有投注进程所产生全部收益的90%；
+$ALT是Aolotto生态的利润共享和生态治理代币，总量为210,000,000, 100%面向社区公平发行， $ALT者可以分享Aolotto所有投注进程所产生全部收益的90%；
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>水龙头</strong></mark></td><td>总量的10%通过水龙头免费空投</td><td></td><td><a href="shui-long-tou.md">shui-long-tou.md</a></td></tr><tr><td><mark style="color:purple;"><strong>投注及挖矿</strong></mark></td><td>总量的70%通过投注及挖矿机制发行</td><td></td><td><a href="altoken.md#tou-zhu-ji-wa-kuang">#tou-zhu-ji-wa-kuang</a></td></tr><tr><td><mark style="color:purple;"><strong>贡献者激励</strong></mark></td><td>总量的20%由Aolotto Fundation奖励给社区贡献者.</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>水龙头</strong></mark></td><td>总量的10%通过水龙头免费空投</td><td></td><td><a href="shui-long-tou.md">shui-long-tou.md</a></td></tr><tr><td><mark style="color:purple;"><strong>投注及挖矿</strong></mark></td><td>总量的70%通过投注及挖矿机制发行</td><td></td><td><a href="altoken.md#tou-zhu-ji-wa-kuang">#tou-zhu-ji-wa-kuang</a></td></tr><tr><td><mark style="color:purple;"><strong>贡献者激励</strong></mark></td><td>总量的20%由Aolotto Foundation奖励给社区贡献者.</td><td></td><td></td></tr></tbody></table>
 
 ### 官方链接
 
@@ -48,7 +48,7 @@ $ALT是aolotto生态的利润共享和生态治理代币，总量为210,000,000,
 * AOLOTTO\*ALT 奖池进程 : `2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY` [ao.link](https://www.ao.link/#/entity/2vheopvdwEfont-jQC\_G9--6bV2hGn-IzlHxsq4CLWY)
 * $ALT 代币进程 : `sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA`[ao.link](https://www.ao.link/#/token/sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA)
 * ALT水龙头 : `qOyriGqikTM1RxJ_n4HQ-27E5fnnW97cln8phLvjebc` [ao.link](https://www.ao.link/#/entity/qOyriGqikTM1RxJ\_n4HQ-27E5fnnW97cln8phLvjebc)
-* Aolotto Fundation : `5PwOcPRPmAJH_Fd-tXlGzISbeUxInGXl8pvu-tIUvwI` [ao.link](https://www.ao.link/#/entity/5PwOcPRPmAJH\_Fd-tXlGzISbeUxInGXl8pvu-tIUvwI)
+* AolottoFoundation : `5PwOcPRPmAJH_Fd-tXlGzISbeUxInGXl8pvu-tIUvwI` [ao.link](https://www.ao.link/#/entity/5PwOcPRPmAJH\_Fd-tXlGzISbeUxInGXl8pvu-tIUvwI)
 
 [^1]: 区块链哈希值是一串固定长度的字符串
 
