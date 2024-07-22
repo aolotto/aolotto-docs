@@ -32,7 +32,7 @@ PS：中文区用户安装AOS通常会面临命令行没有设置科学代理无
 
 了解Aolotto的协议运行原理和规则，可以帮助您做出更好的下注决策。
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>轮次切换规则</strong></mark></td><td>投注进程按规则组轮进行。</td><td></td><td><a href="chou-jiang.md#lun-ci-qie-huan">#lun-ci-qie-huan</a></td></tr><tr><td><mark style="color:purple;"><strong>幸运号码</strong></mark></td><td>通过算法抽取幸运号码，无人为操控。</td><td></td><td><a href="chou-jiang.md#kai-jiang-xing-yun-hao-ma">#kai-jiang-xing-yun-hao-ma</a></td></tr><tr><td><mark style="color:purple;"><strong>奖金分发</strong></mark></td><td>奖金按用户投注量占比实时下发。</td><td></td><td><a href="chou-jiang.md#jiang-jin-fen-fa">#jiang-jin-fen-fa</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>轮次切换规则</strong></mark></td><td>投注进程按规则逐轮进行。</td><td></td><td><a href="chou-jiang.md#lun-ci-qie-huan">#lun-ci-qie-huan</a></td></tr><tr><td><mark style="color:purple;"><strong>幸运号码</strong></mark></td><td>通过算法抽取幸运号码，无人为操控。</td><td></td><td><a href="chou-jiang.md#kai-jiang-xing-yun-hao-ma">#kai-jiang-xing-yun-hao-ma</a></td></tr><tr><td><mark style="color:purple;"><strong>奖金分发</strong></mark></td><td>奖金按用户投注量占比实时下发。</td><td></td><td><a href="chou-jiang.md#jiang-jin-fen-fa">#jiang-jin-fen-fa</a></td></tr></tbody></table>
 
 ### 获取$ALT
 
