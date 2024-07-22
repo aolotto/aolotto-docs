@@ -27,7 +27,7 @@ PS: The AolottoFundation holding address, the faucet address, and the $ALT token
 
 ### Contributor's Fund <a href="#gong-xian-zhe-ji-li" id="gong-xian-zhe-ji-li"></a>
 
-The initial issuance of 42,000,000 $ALT will be held by AolottoFundation, which will be used to incentivize contributors and early investors in the community, including but not limited to development, operation, and promotion. The details of AolottoFundation's expenditure will be disclosed in the Discord community, and you can also pay close attention to and participate in official activities released in the community to receive $ALT rewards.
+The initial issuance of 42,000,000 $ALT will be held by AolottoFoundation, which will be used to incentivize contributors and early investors in the community, including but not limited to development, operation, and promotion. The details of AolottoFoundation's expenditure will be disclosed in the Discord community, and you can also pay close attention to and participate in official activities released in the community to receive $ALT rewards.
 
 ### Profit Sharing <a href="#li-run-fen-xiang" id="li-run-fen-xiang"></a>
 

@@ -25,7 +25,7 @@ Send({
 })
 ```
 
-Make a $ALT transfer to POOL, If the account balance is sufficient, you will successfully participate in the latest betting round. The system will automatically pick numbers for you at random. After the bet is successful, you will receive a message with the Action `Lotto-Notice`. Enter `Inbox[#Inbox].Data` to print the text of the Lotto-Notice, which contains the number information picked by the random algorithm. If the $ALT balance of your process or wallet address is insufficient, you will receive a `Transfer-Error` message and the bet will fail.
+Make a $ALT transfer to POOL, If the account balance is sufficient, you will successfully participate in the latest betting round. The system will automatically pick numbers for you at random. After the bet is successful, you will receive a message with the Action `Lotto-Notice`. Enter `Inbox[#Inbox].Data` to print the text of the **Lotto-Notice**, which contains the number information picked by the random algorithm. If the $ALT balance of your process or wallet address is insufficient, you will receive a `Transfer-Error` message and the bet will fail.
 
 ### Manual Pick
 
