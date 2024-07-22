@@ -2,13 +2,13 @@
 
 List commonly used query commands below. Simply enter the following command in AOS for your query. You can print the results by `Inbox[#Inbox].Data` after receiving responses.
 
-### Round Info
+### Get Round Information
 
 ```lua
 Send({Target=POOL,Action="GetRoundInfo"}
 ```
 
-Get information about the current round, it will reply a message with `Reply-RoundInfo`
+Get information about the current round, it will reply to a message with `Reply-RoundInfo`
 
 ```lua
 Send({Target=POOL,Action="GetRoundInfo",Round="1"})
@@ -42,7 +42,7 @@ If you wish to get information about a target round, you need to add a Round tag
 Send({Target=POOL,Action="UserInfo"})
 ```
 
-Users who have participated in betting can send the above message to get the latest user information. After sending the message, you will receive a reply message with Action as Reply-UserInfo. Use `Inbox[#Inbox].Data` to print the message body.
+Users who have participated in betting can send the above message to get the latest user information. After sending the message, you will receive a reply message with Action as **Reply-UserInfo**. Use `Inbox[#Inbox].Data` to print the message body.
 
 ### Fetching Bets
 
@@ -50,7 +50,7 @@ Users who have participated in betting can send the above message to get the lat
 Send({Target=POOL,Action="Bets"})
 ```
 
-Send the above message to query your betting information in the latest round. When you receive a reply with Action as 'Reply-UserBets', you can print the betting details using `Inbox[#Inbox].Data`.
+Send the above message to query your betting information in the latest round. When you receive a reply with Action as **Reply-UserBets** , you can print the betting details using `Inbox[#Inbox].Data`.
 
 ```lua
 Send({Target=POOL,Action="Bets",Round="1"})

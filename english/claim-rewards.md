@@ -6,7 +6,7 @@ The winner needs to send a claiming message to the pool process to withdraw the 
 Send({Target=POOL,Action="Claim"})
 ```
 
-After sending the claiming message, if the rewards balance is sufficient, you will receive a `Credit-Notice` message and your rewards balance will be cleared. You will receive an Error message if your rewards balance is less than 0.001 ALT. It is recommended that you continue to bet and withdraw all your rewards at once after the balance accumulates to more than 0.01 ALT.
+After sending the claiming message, if the reward balance is sufficient, you will receive a **Credit-Notice** message and your reward balance will be cleared. You will receive an **Error** message if your reward balance is less than 0.01 ALT. It is recommended that you continue to bet and withdraw all your rewards at once after the balance accumulates to more than 0.01 ALT.
 
 ### Income Tax <a href="#guan-yu-suo-de-shui" id="guan-yu-suo-de-shui"></a>
 
@@ -20,4 +20,4 @@ Send the following message to check your rewards balance :
 Send({Target=AOLOTTO,Action="UserInfo"})
 ```
 
-After receiving Reply-UserInfo, print the message body using `Inbox[#Inbox].Data` to view the current rewards balance.
+After receiving **Reply-UserInfo**, print the message body using `Inbox[#Inbox].Data` to view the current rewards balance.

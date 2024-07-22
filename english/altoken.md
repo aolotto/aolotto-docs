@@ -1,6 +1,6 @@
 # 🪙 Altoken
 
-Altoken ($ALT) is the profit-sharing token of the **Aolotto** ecosystem, with a maximum supply of 210,000,000. Holding $ALT allows you to share in all the profits of the Aolotto ecosystem. In the future, different pools will be gradually launched. All the profits **contributed** by all the pools will be distributed to $ALT holders according to their proportion of holdings.
+Altoken ($ALT) is the profit-sharing token of the **Aolotto** ecosystem, with a maximum supply of 210,000,000. Holding $ALT allows you to share all the profits of the Aolotto ecosystem. In the future, different pools will be gradually launched. All the profits **contributed** by all the pools will be distributed to $ALT holders according to their proportion of holdings.
 
 Holding $ALT also allows participation in the decentralized governance of **Aolotto**, with no limits on proposing, voting, and launching pools for new tokens.
 
@@ -20,15 +20,15 @@ PS: The AolottoFundation holding address, the faucet address, and the $ALT token
 
 ### Betting as Mining <a href="#tou-zhu-ji-wa-kuang" id="tou-zhu-ji-wa-kuang"></a>
 
-70% of the total $ALT and 147,000,000 tokens are issued linearly based on the $ALT prize pool. After each lottery round, the Altoken process will be triggered to mint 0.01% of the remaining supply. The newly minted tokens are uniformly transferred to the pool. They are distributed to the user's reward balance according to the proportion of the user's cumulative betting volume in the betting process. Users manually receive them in a private process or wallet address.
+70% of the total $ALT and 147,000,000 tokens are issued linearly based on the $ALT prize pool. After each lottery round, the Altoken process will be triggered to mint 0.01% of the remaining supply. The newly minted tokens will be transferred to the pool process. They will be distributed to the user's reward balance according to the proportion of the user's cumulative bets in the pool. Users manually claim them to their process or wallet.
 
 ### Contributor's Fund <a href="#gong-xian-zhe-ji-li" id="gong-xian-zhe-ji-li"></a>
 
-The initial issuance of 42,000,000 $ALT will be held by AolottoFoundation, which will be used to incentivize contributors and early investors in the community, including but not limited to development, operation, and promotion. The details of AolottoFoundation's expenditure will be disclosed in the Discord community, and you can also pay close attention to and participate in official activities released in the community to receive $ALT rewards.
+&#x20;42,000,000 $ALT (20% of the total) held by AolottoFoundation, which will be used to incentivize contributors and early investors in the community, including but not limited to development, operation, and promotion. The details of AolottoFoundation's expenditure will be disclosed in the Discord community.
 
 ### Profit Sharing <a href="#li-run-fen-xiang" id="li-run-fen-xiang"></a>
 
-**Aolotto** will gradually open betting agreements for different types of tokens. The betting agreement will uniformly collect a fixed amount of income tax (10%, the community can vote to adjust the tax ratio) from the winning users, and the tax revenue will be distributed fairly to $ALT holders in proportion.
+**Aolotto** will gradually open pools for different tokens. pools will uniformly collect a fixed amount of income tax (10%, the community can vote to adjust the tax ratio) from the winning users, and the tax revenue will be distributed fairly to $ALT holders in proportion.
 
 1. Calculation formula: Share amount = Accumulated tax benefits \* ($ALT holdings / $ALT circulation)
 2. Profits are distributed in real-time. After the betting round ends, profits are settled in real-time and sent to all $ALT holder addresses;

@@ -21,9 +21,9 @@ layout:
 
 # 👏 Welcome
 
-**Aolotto** is the first decentralized lottery protocol built on [Arweave AO](https://ao.arweave.dev/), which is Simple, Transparent, and Open. Each round lasts 24 hours and ends with a draw by algorithms. The block hash after the round ends, the number of bets, and other factors are used as the seed for the algorithm to generate a 3-digit lucky number between 000-999. The bets that match perfectly will share 50% of the total prize pool, The remaining 50% will be used for the next round as the basic bonus.
+**Aolotto** is the first decentralized lottery protocol built on [Arweave AO](https://ao.arweave.dev/), which is Simple, Transparent, and Open. Each round lasts 24 hours and ends with a draw by algorithms. The block hash after the round ends, the number of bets, and other factors are used as the seed for the algorithm to generate a 3-digit lucky number between 000-999. The bets that match perfectly will share 50% of the total prize pool, The remaining 50% will be used for the next round as the basic rewards.
 
-Currently, we've only launched a pool for $ALT([altoken](altoken.md)), which is the profit-sharing token of the **Aolotto** ecosystem. The **AOLOTTO\*ALT** pool only supports using $ALT to buy or bet.  All the $ALT will be 100% fairly launched to the community. Early birds can get for free via [the faucet](faucet.md) . In the future, **Aolotto** will gradually launch other pools for AO standard tokens. The **AOLOTTO\*AO** pool based on the AO native token will be launched after February 2025 when $AO is circulated.
+Currently, we've only launched a pool for $ALT([altoken](altoken.md)), which is the profit-sharing token of the **Aolotto** ecosystem. The **AOLOTTO\*ALT** pool only supports using $ALT to buy or bet.  All the $ALT will be 100% fairly launched to the community. Early birds can get for free via [the faucet](faucet.md) . In the future, **Aolotto** will gradually launch other pools for the AO standard tokens. The **AOLOTTO\*AO** pool based on the AO native token will be launched after February 2025 when $AO is circulated.
 
 Compared to centralized lottery agencies, **Aolotto** has a 100% payout rate, and the fairness and transparency of both betting and drawing are completely ensured by the algorithm, which cannot be black-boxed. **Aolotto** stands for **AO** (short for Arweave AO) + **lotto**. [AO](https://ao.arweave.dev/) is a decentralized parallel computer built on the [Arweave](https://arweave.org/) permanent network. Before using **Aolotto**, you need to understand and master the basic AOS knowledge and skills. The AO [cookbook](https://cookbook\_ao.arweave.dev/) can help you get started.
 
@@ -41,7 +41,7 @@ Understanding the rules of the **Aolotto** protocol can help you make better bet
 
 ### Get $ALT token
 
-$ALT is the profit-sharing token of the **Aolotto** ecosystem, with a total supply of 210,000,000, and it is 100% fairly issued to the community. $ALT holders can share 90% of the profits contributed by all betting processes in the **Aolotto** ecosystem.
+$ALT is the profit-sharing token of the **Aolotto** ecosystem, with a total supply of 210,000,000, and it is 100% fairly issued to the community. $ALT holders can share 90% of the profits contributed by all pools in the **Aolotto** ecosystem.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Faucet</strong></mark></td><td>Airdrop 10% of the total supply to early birds via the faucet.</td><td></td><td><a href="faucet.md">faucet.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Betting-as-Mining</strong></mark></td><td>70% of the total supply is linearly minted by Betting-as-Mining.</td><td></td><td><a href="altoken.md">altoken.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Contributor's Fund</strong></mark></td><td>The 20% held by the Aolotto Foundation will be awarded to community contributors</td><td></td><td><a href="altoken.md#gong-xian-zhe-ji-li">#gong-xian-zhe-ji-li</a></td></tr></tbody></table>
 
