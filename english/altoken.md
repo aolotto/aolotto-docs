@@ -14,16 +14,13 @@ Holding $ALT also allows participation in the decentralized governance of **Aolo
 
 ### Distribution <a href="#fa-xing-xi-jie" id="fa-xing-xi-jie"></a>
 
-$ALT is 100% launched fairly to the community. The initial **30%** (63,000,000) is held by the AolottoFoundation and the faucet address respectively. Early birds can get tokens for free via the faucet to bet and earn more tokens via BettingAsMining, or you can participate in official events to get contributor rewards. The remaining **70%** (147,000,000) is issued linearly through **betting as mining**. \
-
-
-PS: The AolottoFoundation holding address, the faucet address, and the $ALT token process cannot participate in betting.
-
-### Betting as Mining <a href="#tou-zhu-ji-wa-kuang" id="tou-zhu-ji-wa-kuang"></a>
-
 $ALT is 100% launched fairly to the community. The initial **30%** (63,000,000) is held by the AolottoFoundation and the faucet address respectively. Early birds can get tokens for free via the faucet to bet and earn more tokens via Betting-As-Mining, or you can participate in official events to get contributor rewards. The remaining **70%** (147,000,000) is issued linearly through **betting as mining**. &#x20;
 
 PS: The AolottoFundation holding address, the faucet address, and the $ALT token process cannot participate in betting.
+
+### Betting as Mining <a href="#tou-zhu-ji-wa-kuang" id="tou-zhu-ji-wa-kuang"></a>
+
+70% of the total $ALT and 147,000,000 tokens are issued linearly based on the $ALT prize pool. After each lottery round, the Altoken process will be triggered to mint 0.01% of the remaining supply. The newly minted tokens are uniformly transferred to the pool. They are distributed to the user's reward balance according to the proportion of the user's cumulative betting volume in the betting process. Users manually receive them in a private process or wallet address.
 
 ### Contributor's Fund <a href="#gong-xian-zhe-ji-li" id="gong-xian-zhe-ji-li"></a>
 
