@@ -20,11 +20,11 @@ PS: The AolottoFundation holding address, the faucet address, and the $ALT token
 
 ### Betting as Mining <a href="#tou-zhu-ji-wa-kuang" id="tou-zhu-ji-wa-kuang"></a>
 
-70% of the total supply of $ALT and 147,000,000 tokens are issued linearly based on the $ALT prize pool, and at the end of each lottery round, the Altoken process will be triggered to mint 0.01% of the remaining supply. The newly minted tokens are uniformly transferred to the pool process and distributed to all the users according to the percentage of the user's cumulative bets in the pool, which the user manually claims to their process or wallet.
+70% of the total supply of $ALT, equaling 147,000,000 tokens, is issued linearly based on the $ALT prize pool. At the end of each lottery round, the Altoken process will be triggered to mint 0.01% of the remaining supply. The newly minted tokens are transferred to the pool process and distributed to all users according to their percentage of cumulative bets in the pool. Users can manually claim these tokens to their process or wallet.
 
 ### Contributor's Fund <a href="#gong-xian-zhe-ji-li" id="gong-xian-zhe-ji-li"></a>
 
-&#x20;42,000,000 $ALT (20% of the total supply) is held by AolottoFoundation, which will be used to incentivize community contributors and early investors, including but not limited to development, operations, and promotion. Details of AolottoFoundation's expenditures will be disclosed in the Discord community.
+42,000,000 $ALT (20% of the total supply) is held by the AolottoFoundation, which will use it to incentivize community contributors and early investors, including but not limited to development, operations, and promotion. Details of the AolottoFoundation's expenditures will be disclosed in the Discord community.
 
 ### Profit Sharing <a href="#li-run-fen-xiang" id="li-run-fen-xiang"></a>
 
