@@ -1,4 +1,4 @@
-# 🤟 投注
+# 🎲 投注
 
 **当前仅支持通过AOS命令行下注**，Web端应用即将推出，最小投注金额为0.001 ALT，支持手选和机选000-999之间的3位号码，无投注金额和次数上限。投注AOLOTTO\*ALT异常简单，直接向奖池进程发起$ALT转账即可参与最新轮次。
 
@@ -9,8 +9,8 @@
 --[[
 	在AOS中将Aolotto Pool和altoken进程ID分别设置为全局变量POOL和ALT,以便后续调用。
 ]]--
-POOL = "wqwklmuSqSPGaeMR7dHuciyvBDtt1UjmziAoWu-pKuI" 
-ALT = "dzkRvtoLH6mtIW893eJSO4vdJBc-JT8N1fnBmcDVWdY" 
+POOL = "2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY" 
+ALT = "sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA" 
 
 --[[
 	在AOS中发起转账，Recipient填写为设置好的全局变量POOL;
