@@ -10,7 +10,7 @@ Currently, betting is only supported through the AOS command line. The web appli
 	respectively for subsequent calls.
 ]]--
 POOL = "2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY" 
-ALT = "dzkRvtoLH6mtIW893eJSO4vdJBc-JT8N1fnBmcDVWdY" 
+ALT = "sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA" 
 
 --[[
 	Make a token transfer in AOS, and fill in the Recipient with the global variable POOL;
