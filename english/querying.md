@@ -58,11 +58,13 @@ Send({Target=POOL,Action="Bets",Round="1"})
 
 Add the Round tag to query your betting details in the target round.
 
-### The Pool Info
+### The Infomation of the pool
 
 ```lua
 Send({Target=POOL,Action="Info"})
 ```
+
+Send the above message to get the summary of the pool.
 
 ### Fetching winners
 
