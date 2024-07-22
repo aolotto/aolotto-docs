@@ -6,7 +6,7 @@
 2. The airdrop amount will be updated to 0.001% of the remaining amount in the faucet for every 10 additional recipients.
 3. The faucet will be permanently closed at some point in the future, and the remaining funds will be distributed to community contributors through official events.
 
-### How to get the faucet <a href="#ling-qu-fang-shi" id="ling-qu-fang-shi"></a>
+### Faucet Tutorial
 
 1. Join **Aolotto** official [Discord](https://discord.com/invite/BFhkUCRjmF) ;
 2. Enter the faucet channel;
