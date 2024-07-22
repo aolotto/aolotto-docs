@@ -1,8 +1,8 @@
 # 🪙 Altoken
 
-Altoken ($ALT) is the profit-sharing token of the Aolotto ecosystem, with a maximum supply of 210,000,000. Holding $ALT allows you to share in all the profits of the Aolotto ecosystem. In the future, different pools will be gradually launched. All the profits **contributed** by all the pools will be distributed to $ALT holders according to their proportion of holdings.
+Altoken ($ALT) is the profit-sharing token of the **Aolotto** ecosystem, with a maximum supply of 210,000,000. Holding $ALT allows you to share in all the profits of the Aolotto ecosystem. In the future, different pools will be gradually launched. All the profits **contributed** by all the pools will be distributed to $ALT holders according to their proportion of holdings.
 
-Holding $ALT also allows participation in the decentralized governance of Aolotto, with no limits on proposing, voting, and launching pools for new tokens.
+Holding $ALT also allows participation in the decentralized governance of **Aolotto**, with no limits on proposing, voting, and launching pools for new tokens.
 
 ### Token Details <a href="#dai-bi-xiang-qing" id="dai-bi-xiang-qing"></a>
 
@@ -14,7 +14,7 @@ Holding $ALT also allows participation in the decentralized governance of Aolott
 
 ### Distribution <a href="#fa-xing-xi-jie" id="fa-xing-xi-jie"></a>
 
-$ALT is 100% launched fairly to the community. The initial **30%** (63,000,000) is held by the AolottoFoundation and the faucet address respectively. Early bird users can get tokens for free via the faucet to bet in the AOLOTTO\*ALT pool, or they can participate in official events to get contributor rewards. The remaining **70%** (147,000,000) is issued linearly through **betting and mining**. \
+$ALT is 100% launched fairly to the community. The initial **30%** (63,000,000) is held by the AolottoFoundation and the faucet address respectively. Early birds can get tokens for free via the faucet to bet and earn more tokens via BettingAsMining , or your can participate in official events to get contributor rewards. The remaining **70%** (147,000,000) is issued linearly through **betting as mining**. \
 
 
 PS: The AolottoFoundation holding address, the faucet address, and $ALT token process cannot participate in betting.
