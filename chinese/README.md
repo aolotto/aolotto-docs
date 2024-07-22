@@ -36,7 +36,7 @@ PS：中文区用户安装AOS通常会面临命令行没有设置科学代理无
 
 ### 获取$ALT
 
-$ALT是Aolotto生态的利润共享和生态治理代币，总量为210,000,000, 100%面向社区公平发行， $ALT者可以分享Aolotto所有投注进程所产生全部收益的90%；
+$ALT是Aolotto生态的利润共享和生态治理代币，总量为210,000,000, 100%面向社区公平发行， $ALT者可以分享Aolotto所有奖池所产生全部收益的90%；
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>水龙头</strong></mark></td><td>总量的10%通过水龙头免费空投</td><td></td><td><a href="shui-long-tou.md">shui-long-tou.md</a></td></tr><tr><td><mark style="color:purple;"><strong>投注及挖矿</strong></mark></td><td>总量的70%通过投注及挖矿机制发行</td><td></td><td><a href="altoken.md#tou-zhu-ji-wa-kuang">#tou-zhu-ji-wa-kuang</a></td></tr><tr><td><mark style="color:purple;"><strong>贡献者激励</strong></mark></td><td>总量的20%由Aolotto Foundation奖励给社区贡献者.</td><td></td><td></td></tr></tbody></table>
 
