@@ -3,7 +3,7 @@
 中奖地址需要向Aolotto发送领奖指令提取奖金到钱包地址或私人进程地址上，指令发送后系统会将奖金余额一次性转账，奖金余额需要>=0.01 ALT，领取奖金需要统一扣除10%的所得税。如过您的奖金余额为0.01ALT，扣除手续费后实际转账金额为0.009 ALT.
 
 ```lua
-Send({Target=AOLOTTO,Action="Claim"})
+Send({Target=POOL,Action="Claim"})
 ```
 
 发送以上指令后，奖金余额充足的情况下，您将收到一条名称为Credit-Notice到账消息，同时您的奖金余额清零。如果您的奖金余额小于0.01 ALT，你将收到一条Error信息，建议您继续参与投注，将奖金余额累积大于0.01 ALT之后一次性提取。
@@ -17,7 +17,7 @@ Send({Target=AOLOTTO,Action="Claim"})
 下发如下指令，可以查看个人账户的奖金余额：
 
 ```lua
-Send({Target=AOLOTTO,Action="UserInfo"})
+Send({Target=POOL,Action="UserInfo"})
 ```
 
 收到Reply-UserInfo后，通过\`Inbox\[#Inbox].Data\`打印消息正文，即可查看当前的奖金余额。
