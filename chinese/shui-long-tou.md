@@ -1,4 +1,4 @@
-# 🐳 水龙头
+# 🚰 水龙头
 
 21,000,000枚$ALT(总量10%)通过水龙头程序免费空投给用户，加入**Aolotto**官方[Discord](https://discord.com/invite/BFhkUCRjmF)即可免费获取$ALT代币，每个Discord账户只能领取一次，单个账户的空投额度会基于累计领取人数线性递减。
 
@@ -7,6 +7,8 @@
 3. aolotto官方将会在未来某个时间点永久关闭水龙头，水龙头余量将以其他活动形式发放给社区建设者。
 
 ### 领取方式
+
+<mark style="color:red;">**配合新版发布，水龙头临时关闭，新版水龙头将会整合到应用中，感谢理解！**</mark>
 
 1. 加入Aolotto官方[Discord](https://discord.com/invite/BFhkUCRjmF);
 2. 进入faucet频道；
