@@ -8,6 +8,8 @@
 
 ### Faucet Tutorial
 
+<mark style="color:red;">**With the release of the new version, the faucet is temporarily closed. The new faucet will be integrated into the application. Thank you for your understanding!**</mark>
+
 1. Join **Aolotto** official [Discord](https://discord.com/invite/BFhkUCRjmF) ;
 2. Enter the faucet channel;
 3. Input the “/get” command to wake up the faucet robot;
