@@ -2,6 +2,8 @@
 
 Currently, betting is only supported through the AOS command line. The web application will be launched soon. The minimum bet amount is 0.001 ALT, and bets must be placed on a 3-digit number between 000-999. There is no limit on the number of bets you can place. Betting is extremely simple. To participate in the latest round, simply transfer $ALT to the **AOLOTTO\*ALT** process at `2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY`.
 
+<mark style="background-color:red;">With the new version release, the ALT prize pool will no longer accept bets. All funds will be refunded.</mark>
+
 ### Quick Pick
 
 ```lua
@@ -70,7 +72,7 @@ Send({
 -- The result：000*1，001*1, 002*1, 003*1, 004*1, 005*1, 006*1, 007*1, 008*1, 009*1   
 ```
 
-Generate a batch of bets with sequential values. If the range of values exceeds the Quantity, the excess values will be automatically discarded. For example, if Quantity=2 and the range of values are '000-010', the final bet results generated are 000\*_1, 001\*_1.
+Generate a batch of bets with sequential values. If the range of values exceeds the Quantity, the excess values will be automatically discarded. For example, if Quantity=2 and the range of values are '000-010', the final bet results generated are 000\*_1, 001\*_&#x31;.
 
 ### Add a donee
 
