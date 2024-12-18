@@ -4,7 +4,7 @@ Aolotto is the first decentralized lottery protocol based on AO , pioneering $1 
 
 ## What is $ALT?
 
-$ALT (AoLottoToken) is the glue of the Aolotto community and the circulating currency of the LottoFi ecosystem. The maximum supply is capped at 210,000,000, with an initial supply of 0. Of the total supply, 90% (189,000,000) will be minted through the Bet2Mint mechanism, and 10% (21,000,000) will be distributed to early users via the faucet.
+$ALT (AoLottoToken) is the glue of the Aolotto community and the circulating currency of the LottoFi ecosystem. The maximum supply is capped at 210,000,000, with an initial supply of 0. Of the total supply, 90% (189,000,000) will be minted through the [Bet2Mint](aolotto-tokenomics.md#bet2mint) mechanism, and 10% (21,000,000) will be distributed as a minting buff to early users via the [faucet](aolotto-tokenomics.md#faucet).
 
 * **Token Dividends**: 20% of Aolotto's cumulative sales ($USD) will be distributed proportionally to $ALT token holders as dividends.
 * **Buyback & Burn**: 20% of Aolotto's cumulative sales ($USD) will be used to buy back and burn circulating $ALT tokens, promoting token circulation and stabilizing market cap. This mechanism also gives users the option to sell for short-term profits or hold for long-term dividends.
@@ -22,7 +22,11 @@ AolottoFundation is a decentralized organization (DAO) composed of core members 
 
 The $ALT minting mechanism is integrated into Aolotto's betting protocol, with tokens minted based on user bets. There is no fixed issuance cycle, and the release rate depends on user activity. Once cumulative sales reach $210,000,000, the total circulation of $ALT will stabilize.
 
-### **3.1 Bet2Mint**
+<div data-full-width="true"><figure><img src=".gitbook/assets/chart.png" alt=""><figcaption><p>After cumulative sales exceed ~200 million, $ALT will achieve full circulation.</p></figcaption></figure></div>
+
+
+
+### **Bet2Mint**
 
 90% of the tokens are minted through the Bet2Mint (Bet to Mint) mechanism in rounds. Each round begins by resetting the minting cap based on the circulating supply of $ALT. As the circulating supply increases, the minting cap decreases. Users participating in the current round of betting will receive minting rewards based on the order of their bets, with the rewards per bet decreasing as the minting volume increases in the current round.
 
@@ -34,7 +38,7 @@ The $ALT minting mechanism is integrated into Aolotto's betting protocol, with t
 
 _Notes: The minting tax is collected by AolottoFundation and managed through the AolottoFundation governance contract._
 
-### **3.2 Faucet**
+### **Faucet**
 
 10% of the tokens are distributed through the faucet as a minting buff (ALTb) to reward early users. Users with the minting buff (ALTb) will convert it into $ALT when placing a bet, adding it to the $ALT rewards earned via the Bet2Mint mechanism. Each community member can claim the minting buff (ALTb) once for free from the faucet, with the available amount of ALTb decreasing as the faucet balance declines.
 
@@ -71,9 +75,7 @@ LottoFi is not just an empty term; its value comes from the 40% tax levied on wi
 ## **Token Details**
 
 * **Name**: Ao Lotto Token
-* **Token Symbol**: $ALT
-* **Token Precision**: 12
+* **Symbol**: $ALT
+* **Denomination**: 12
 * **Smallest Token Unit**: lotto, 1 lotto = 0.000000000001 $ALT
 * **Token Process**: DlApxvZDQFH26c0Tasakc0IE30wedGScoUNLtTLOIS4
-* **Buyback Process**: Wzzg\_jPK2KevYILHm1LtqfLgwidbQm9mQZCnwuO0Mw4
-* **AolottoFundation**: lWi4tlP8UDpQMo0dNGXM17ZxXtDWOUe9x2J9
