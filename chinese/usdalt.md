@@ -6,7 +6,7 @@ Aolotto是首款基于AO发行的去中心化彩票协议，首创1美金链上�
 
 ## 什么是$ALT
 
-$ALT(AoLottoToken)是Aolotto社区的粘合剂，也是LottoFi生态的流通货币。最大发行量不超过210,000,000 , 初始发行量为0，90%(189,000,000)通过[Bet2Mint](usdalt.md#bet2mint)机制铸造，10%(21,000,000)通过[水龙头](usdalt.md#shui-long-tou)以铸币Buff的方式奖励早期用户。
+$ALT(AoLottoToken)是Aolotto社区的粘合剂，也是LottoFi生态的流通货币。最大发行量不超过210,000,000 , 初始发行量为0，90%(189,000,000)通过[Bet2Mint](usdalt.md#bet2mint)机制铸造，10%(21,000,000)通过[水龙头](usdalt.md#shui-long-tou)以铸币Buff(ALTb)的方式奖励早期用户。
 
 1. **持币分红**：Aolotto累计销售额($USD)的20%将通过持币分红直接按比例分发给$ALT代币持有者；
 2. **回购销毁**：Aolotto累计销售额($USD)的20%用于回购流通中的$ALT并销毁，促进代币的循环流通，稳定市值；同时也增加了用户的选择权，出售获取短期收益或持有获得长期分红。
