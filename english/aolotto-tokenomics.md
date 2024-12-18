@@ -31,8 +31,8 @@ The $ALT minting mechanism is integrated into Aolotto's betting protocol, with t
 90% of the tokens are minted through the Bet2Mint (Bet to Mint) mechanism in rounds. Each round begins by resetting the minting cap based on the circulating supply of $ALT. As the circulating supply increases, the minting cap decreases. Users participating in the current round of betting will receive minting rewards based on the order of their bets, with the rewards per bet decreasing as the minting volume increases in the current round.
 
 * Minting Cap per Round = (Maximum Supply \* 0.9 - Total Circulating Supply) \* 0.002
-* Minting Rate = 1 - Total Circulating Supply / Maximum Supply
-* Minting Reward per Bet ($ALT) = (Current Round Minting Quota - Minted Amount) \* 0.001 \* Minting Rate \* Bet Amount
+* Minting Speed = 1 - Total Circulating Supply / Maximum Supply
+* Minting Reward per Bet ($ALT) = (Current Round Minting Quota - Minted Amount) \* 0.001 \* Minting Speed \* Bet Amount($USD)
 * Minted Tokens ($ALT) = Minting Reward per Bet \* 0.8
 * Minting Tax ($ALT) = Minting Reward per Bet \* 0.2
 
@@ -43,8 +43,8 @@ _Notes: The minting tax is collected by AolottoFundation and managed through the
 10% of the tokens are distributed through the faucet as a minting buff (ALTb) to reward early users. Users with the minting buff (ALTb) will convert it into $ALT when placing a bet, adding it to the $ALT rewards earned via the Bet2Mint mechanism. Each community member can claim the minting buff (ALTb) once for free from the faucet, with the available amount of ALTb decreasing as the faucet balance declines.
 
 * Minting Buff (ALTb) = Faucet Balance \* 0.0001
-* Release Rate = 1 - Total Circulating Supply / Maximum Supply
-* Minted $ALT per Bet = MIN(Minting Buff \* 0.01 \* Bet Amount \* Release Rate, Minting Buff Balance)
+* Minting Speed = 1 - Total Circulating Supply / Maximum Supply
+* Minted $ALT per Bet = MIN(Minting Buff \* 0.01 \* Bet Amount($USD) \* Minting Speed, Minting Buff Balance)
 * Minted Tokens ($ALT) = Minted $ALT per Bet \* 0.8
 * Minting Tax ($ALT) = Minted $ALT per Bet \* 0.2
 
