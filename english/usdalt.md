@@ -38,7 +38,7 @@ AolottoFundation is a decentralized organization (DAO) composed of core members 
 
 The $ALT minting mechanism is integrated into Aolotto's betting protocol, with tokens minted based on user bets. There is no fixed issuance cycle, and the release rate depends on user activity. Once cumulative sales reach $210,000,000, the total circulation of $ALT will stabilize.
 
-<div data-full-width="true"><figure><img src=".gitbook/assets/chart.png" alt=""><figcaption><p>After cumulative sales exceed ~200 million, $ALT will achieve full circulation.</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src=".gitbook/assets/chart.png" alt=""><figcaption><p>After cumulative sales exceed ~200 million, $ALT will achieve full circulation.</p></figcaption></figure></div>
 
 
 
