@@ -48,7 +48,7 @@ The $ALT minting mechanism is integrated into Aolotto's betting protocol, with t
 
 * Minting Cap per Round = (Maximum Supply \* 0.9 - Total Circulating Supply) \* 0.002
 * Minting Speed = 1 - Total Circulating Supply / Maximum Supply
-* Minting Reward per Bet ($ALT) = (Current Round Minting Quota - Minted Amount) \* 0.001 \* Minting Speed \* Bet Amount($USD)
+* Minting Reward per Bet ($ALT) = (Current Round Minting Cap - Minted Amount) \* 0.001 \* Minting Speed \* Bet Amount($USD)
 * Minted Tokens ($ALT) = Minting Reward per Bet \* 0.8
 * Minting Tax ($ALT) = Minting Reward per Bet \* 0.2
 
