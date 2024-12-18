@@ -5,5 +5,5 @@
 * [🔍 Querying](querying.md)
 * [🌟 Draw & Rules](draw-and-rules.md)
 * [💸 Claim Rewards](claim-rewards.md)
-* [🪙 $ALT - Aolotto Tokenomics](usdalt-aolotto-tokenomics.md)
+* [🪙 $ALT - Aolotto Tokenomics](aolotto-tokenomics.md)
 * [🚰 Faucet](faucet.md)
