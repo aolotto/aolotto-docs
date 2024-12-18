@@ -1,10 +1,10 @@
-# 🪙 Aolotto Tokenomics
+# 🪙 $ALT - Aolotto Tokenomics
 
 Aolotto is the first decentralized lottery protocol based on AO , pioneering $1 on-chain betting. Users can participate anonymously without permission, and both the betting and drawing are ensured to be fair and transparent through the protocol's algorithms. Aolotto is not controlled by any private entity or organization and operates under 100% community governance and decentralization.
 
 ## What is $ALT?
 
-$ALT (AoLottoToken) is the glue of the Aolotto community and the circulating currency of the LottoFi ecosystem. The maximum supply is capped at 210,000,000, with an initial supply of 0. Of the total supply, 90% (189,000,000) will be minted through the [Bet2Mint](aolotto-tokenomics.md#bet2mint) mechanism, and 10% (21,000,000) will be distributed as a minting buff to early users via the [faucet](aolotto-tokenomics.md#faucet).
+$ALT (AoLottoToken) is the glue of the Aolotto community and the circulating currency of the LottoFi ecosystem. The maximum supply is capped at 210,000,000, with an initial supply of 0. Of the total supply, 90% (189,000,000) will be minted through the [Bet2Mint](usdalt-aolotto-tokenomics.md#bet2mint) mechanism, and 10% (21,000,000) will be distributed as a minting buff to early users via the [faucet](usdalt-aolotto-tokenomics.md#faucet).
 
 * **Token Dividends**: 20% of Aolotto's cumulative sales ($USD) will be distributed proportionally to $ALT token holders as dividends.
 * **Buyback & Burn**: 20% of Aolotto's cumulative sales ($USD) will be used to buy back and burn circulating $ALT tokens, promoting token circulation and stabilizing market cap. This mechanism also gives users the option to sell for short-term profits or hold for long-term dividends.
