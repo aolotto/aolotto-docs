@@ -1,4 +1,6 @@
-# 🪙 $ALT-Aolotto代币模型
+# 🪙 $ALT
+
+<figure><img src=".gitbook/assets/tokenomics.png" alt=""><figcaption></figcaption></figure>
 
 Aolotto是首款基于AO发行的去中心化彩票协议，首创1美金链上投注，用户无许可匿名参与，投注及开奖由协议算法确保公平和透明。 Aolotto不属于任何私人或机构，100%社区化治理和去中心化运营。
 
