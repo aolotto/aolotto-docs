@@ -26,6 +26,6 @@ For more details on minting methods, please visit: [usdalt.md](usdalt.md "mentio
 
 ### **Testnet $ALT**
 
-Since Aolotto's launch on the testnet in May 2024, it has attracted significant attention from enthusiastic users. During the testing phase, a total of **1,093,519.8 $ALT** was distributed to **447 addresses** via the faucet and ALT pool. These $ALT tokens were then converted into ALTb based on the balance snapshot. The release mechanism follows the process outlined above.
+Since Aolotto's launched on the testnet in May 2024, it has attracted significant attention from enthusiastic users. During the testing phase, a total of **1,093,519.8 $ALT** was distributed to **447 addresses** via the faucet and ALT pool. These $ALT tokens were then converted into ALTb based on the balance snapshot. The release mechanism follows the process outlined above.
 
 **$ALT balance snapshot during the testing phase:** [View Snapshot](https://www.ao.link/#/token/sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA)
