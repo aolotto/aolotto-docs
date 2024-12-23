@@ -94,4 +94,4 @@ LottoFi is not just an empty term; its value comes from the 40% tax levied on wi
 * **Symbol**: $ALT
 * **Denomination**: 12
 * **Smallest Token Unit**: lotto, 1 lotto = 0.000000000001 $ALT
-* **Token Process**: DlApxvZDQFH26c0Tasakc0IE30wedGScoUNLtTLOIS4
+* **Token Process**: 3IYRZBvph5Xx9566RuGWdLvUHnOcG8cHXT95s1CYRBo
