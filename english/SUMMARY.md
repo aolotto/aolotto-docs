@@ -7,3 +7,4 @@
 * [💸 Claim Rewards](claim-rewards.md)
 * [🪙 $ALT](usdalt.md)
 * [🚰 Faucet](faucet.md)
+* [🌳 LottoFi](lottofi.md)
