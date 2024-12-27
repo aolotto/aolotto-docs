@@ -7,3 +7,4 @@
 * [💸 领取奖金](ling-qu-jiang-jin.md)
 * [🪙 $ALT](usdalt.md)
 * [🚰 水龙头](shui-long-tou.md)
+* [🌳 LottoFi](lottofi.md)
