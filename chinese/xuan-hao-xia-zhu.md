@@ -9,7 +9,7 @@
 3. 每一次投注都会生成一张永久存放在Arweave上的投注票据，相当于传统发行的彩票，存放在Arweave上的彩票是一种具有可发现性的原子资产，相当于NFT，具有收藏价值。[链上彩票示例](https://kmu4rbzchrloqp3ypunbd4y345hrhritxwufx7dg5ymkbce6anhq.arweave.net/UynIhyI8Vug_eH0aEfMb508TxRO9qFv8Zu4YoIieA08)
 4. 铸币奖励和ALTb释放与Bet2Mint机制有关，铸币奖励是你完成投注后，协议奖励基础$ALT， ALTb释放是在基础奖励之上的Buff(加成)，铸币Buff是面向早期用户的额外奖励，不代表所有的参与地址都拥有，[了解Bet2Mint详情](usdalt.md#bet2mint)
 
-投注完成后，等待开奖，开奖通知将会在Aolotto官方X和Discord Server中实时发布，你也可以在个人中心和开奖页面中查询中奖或开奖历史。
+投注完成后，等待开奖，开奖通知将会在Aolotto[官方X](https://x.com/aolotto_dao)和[Discord Server](https://discord.gg/BFhkUCRjmF)中实时发布，你也可以在[个人中心](https://aolotto.com/#/me?tab=wins)和[开奖页面](https://dev.aolotto.com/#/draws)中查询中奖或开奖历史。
 
 ## 最佳投注策略
 
