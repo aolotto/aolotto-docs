@@ -1,6 +1,6 @@
 # 🔍 充值
 
-参与Aolotto投注，目前采用$wUSDC支付，$wUSDC是通过AOX跨链与以太坊USDC代币1等价的稳定币资产，通过AOX你可以随时从个人的以太坊（即将支持Bsc和Base链）钱包或交易所钱包中转入或转出，用用$wUSDC, 你可以在AO生态内完成支付和转账，无需GAS费，非常适合小额支付。
+参与Aolotto投注，目前采用$wUSDC支付，$wUSDC是通过AOX跨链与以太坊USDC代币等价的稳定币资产，通过AOX你可以随时从个人的以太坊（即将支持Bsc和Base链）钱包或交易所钱包中转入或转出，用用$wUSDC, 你可以在AO生态内完成支付和转账，无需GAS费，非常适合小额支付。
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
