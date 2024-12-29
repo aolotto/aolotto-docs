@@ -26,7 +26,7 @@ PS：中文区用户安装AOS通常会面临命令行没有设置科学代理无
 
 **AOLOTTO\*ALT**奖池当前仅支持使用AOS命令行交互，Web版将于近期发布，通过AOS交互并不复杂，按照下列指引可以在10分钟掌握常用的操作指令。
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a data-footnote-ref href="#user-content-fn-2"><mark style="color:purple;"><strong>投注</strong></mark></a></td><td>不同类型的投注指令，支持机选，手选号码。</td><td></td><td><a href="tou-zhu.md">tou-zhu.md</a></td></tr><tr><td><mark style="color:purple;"><strong>查询</strong></mark></td><td>通过指令获取进程状态和信息</td><td></td><td><a href="cha-xun-zhi-ling.md">cha-xun-zhi-ling.md</a></td></tr><tr><td><mark style="color:purple;"><strong>领奖</strong></mark></td><td>发送指令领取奖金到钱包或私人进程</td><td></td><td><a href="ling-qu-jiang-jin.md">ling-qu-jiang-jin.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a data-footnote-ref href="#user-content-fn-2"><mark style="color:purple;"><strong>投注</strong></mark></a></td><td>不同类型的投注指令，支持机选，手选号码。</td><td></td><td><a href="xuan-hao-xia-zhu.md">xuan-hao-xia-zhu.md</a></td></tr><tr><td><mark style="color:purple;"><strong>查询</strong></mark></td><td>通过指令获取进程状态和信息</td><td></td><td><a href="cha-xun-zhi-ling.md">cha-xun-zhi-ling.md</a></td></tr><tr><td><mark style="color:purple;"><strong>领奖</strong></mark></td><td>发送指令领取奖金到钱包或私人进程</td><td></td><td><a href="ling-qu-jiang-jin.md">ling-qu-jiang-jin.md</a></td></tr></tbody></table>
 
 ### 了解规则
 
