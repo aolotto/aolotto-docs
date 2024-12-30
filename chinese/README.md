@@ -30,7 +30,7 @@ AO是继比特币，以太坊之后颇具革命性的范式创新，基于AO构�
 
 参与Aolotto非常简单，在使用之前它需要你安装浏览器钱包插件Arconnect, 对于无法安装插件的浏览器，我们也支持使用AR生态的在线钱包arweave.app，遵循下列指南，任何人可以在5分钟内上手操作。
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="xuan-hao-xia-zhu.md">选号下注</a></td><td>投注界面示范及使用说明</td><td></td><td><a href="xuan-hao-xia-zhu.md">xuan-hao-xia-zhu.md</a></td></tr><tr><td><mark style="color:purple;"><strong>查询</strong></mark></td><td>通过指令获取进程状态和信息</td><td></td><td><a href="chong-zhi.md">chong-zhi.md</a></td></tr><tr><td><mark style="color:purple;"><strong>领奖</strong></mark></td><td>发送指令领取奖金到钱包或私人进程</td><td></td><td><a href="ling-qu-jiang-jin.md">ling-qu-jiang-jin.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="xuan-hao-xia-zhu.md">选号下注</a></td><td>投注界面示范及使用说明</td><td></td><td><a href="xuan-hao-xia-zhu.md">xuan-hao-xia-zhu.md</a></td></tr><tr><td><mark style="color:purple;"><strong>充值</strong></mark></td><td>通过AOX跨链充值投注资金wUSDC</td><td></td><td><a href="chong-zhi.md">chong-zhi.md</a></td></tr><tr><td><mark style="color:purple;"><strong>领奖</strong></mark></td><td>获奖后领取奖金的入口和注意事项</td><td></td><td><a href="ling-qu-jiang-jin.md">ling-qu-jiang-jin.md</a></td></tr></tbody></table>
 
 ### 了解规则
 
