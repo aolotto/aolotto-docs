@@ -36,20 +36,29 @@ AO是继比特币，以太坊之后颇具革命性的范式创新，基于AO构�
 
 了解Aolotto的协议运行原理和规则，可以帮助您做出更好的下注决策。
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>轮次切换规则</strong></mark></td><td>投注进程按规则逐轮进行。</td><td></td><td><a href="kai-jiang-jiang-jin.md#lun-ci-qie-huan">#lun-ci-qie-huan</a></td></tr><tr><td><mark style="color:purple;"><strong>幸运号码</strong></mark></td><td>通过算法抽取幸运号码，无人为操控。</td><td></td><td><a href="kai-jiang-jiang-jin.md#kai-jiang-xing-yun-hao-ma">#kai-jiang-xing-yun-hao-ma</a></td></tr><tr><td><mark style="color:purple;"><strong>奖金分发</strong></mark></td><td>奖金按用户投注量占比实时下发。</td><td></td><td><a href="kai-jiang-jiang-jin.md#jiang-jin-fen-fa">#jiang-jin-fen-fa</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="kai-jiang-jiang-jin.md#kai-jiang-shi-jian">开奖时间及轮次切换</a></td><td>投注进程按规则逐轮进行。</td><td></td><td><a href="kai-jiang-jiang-jin.md#lun-ci-qie-huan">#lun-ci-qie-huan</a></td></tr><tr><td><mark style="color:purple;"><strong>幸运号码</strong></mark></td><td>通过算法抽取幸运号码，无人为操控。</td><td></td><td><a href="kai-jiang-jiang-jin.md#kai-jiang-xing-yun-hao-ma">#kai-jiang-xing-yun-hao-ma</a></td></tr><tr><td>中奖者及<mark style="color:purple;"><strong>奖金分配</strong></mark></td><td>奖金按用户投注量占比实时下发。</td><td></td><td><a href="kai-jiang-jiang-jin.md#jiang-jin-fen-fa">#jiang-jin-fen-fa</a></td></tr></tbody></table>
 
 ### 获取$ALT
 
-$ALT是Aolotto生态的利润共享和生态治理代币，总量为210,000,000, 100%面向社区公平发行， $ALT者可以分享Aolotto所有奖池所产生全部收益的90%；
+$ALT发行总量2.1亿枚，90%可以通过Bet2Mint机制获取，10%以铸币奖励ALTb建立早期用户，ALTb可以在投注规格中释放为$ALT
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>水龙头</strong></mark></td><td>总量的10%通过水龙头免费空投</td><td></td><td><a href="shui-long-tou.md">shui-long-tou.md</a></td></tr><tr><td><mark style="color:purple;"><strong>投注及挖矿</strong></mark></td><td>总量的70%通过投注及挖矿机制发行</td><td></td><td><a href="usdalt.md#tou-zhu-ji-wa-kuang">#tou-zhu-ji-wa-kuang</a></td></tr><tr><td><mark style="color:purple;"><strong>贡献者激励</strong></mark></td><td>总量的20%由Aolotto Foundation奖励给社区贡献者.</td><td></td><td><a href="usdalt.md#gong-xian-zhe-ji-li">#gong-xian-zhe-ji-li</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Bet2Mint</strong></mark></td><td>总量的10%通过水龙头免费空投</td><td></td><td><a href="shui-long-tou.md">shui-long-tou.md</a></td></tr><tr><td>免费领取ALTb</td><td>总量的70%通过投注及挖矿机制发行</td><td></td><td><a href="usdalt.md#tou-zhu-ji-wa-kuang">#tou-zhu-ji-wa-kuang</a></td></tr><tr><td>铸币税</td><td>总量的20%由Aolotto Foundation奖励给社区贡献者.</td><td></td><td><a href="usdalt.md#gong-xian-zhe-ji-li">#gong-xian-zhe-ji-li</a></td></tr></tbody></table>
+
+### 协议信息
+
+1. 支付代币CA：`7zH9dlMNoxprab9loshv3Y7WG45DOny_Vrq9KrXObdQ`
+2. 投注及铸币CA：`3IYRZBvph5Xx9566RuGWdLvUHnOcG8cHXT95s1CYRBo`
+3. 奖池及开奖CA：`7vTXHQK2yJJHDwFyJRSoXXU5fF4FQYLd8PjTNlHpVj0`
+4. AolottoFoundation CA: `3JLHNobQvmwjhb-wVmcj0dukyVHgBHAbg8L8hZc0LpA`
+5. 回购销毁CA：`ntlTMR1pEt6dyRrfy2rdAeQI90LlO8eXK8N-wB68Ft0`
+6. ALTb领取CA（水龙头）：`d7rD_KozquZU8T5nDoBngFpnW2Qk6WeNTAaTER8RX6c`
 
 ### 官方链接
 
-* Discord : [https://discord.com/invite/BFhkUCRjmF](https://discord.com/invite/BFhkUCRjmF)
+* 官网：[https://aolotto.com](https://aolotto.com)
+* ARNS：[ar://aolotto](https://aolotto.com) (通过wayfinder集成去中心化网关，实现永久链接)
+* Discord : [https://discord.gg/BFhkUCRjmF](https://discord.com/invite/BFhkUCRjmF)
 * X(twitter) :  [@aolotto\_dao](https://x.com/aolotto_dao)
 * Github : [https://github.com/aolotto/aolotto](https://github.com/aolotto/aolotto)
-* AOLOTTO\*ALT 奖池进程 : `2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY` [ao.link](https://www.ao.link/#/entity/2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY)
-* $ALT 代币进程 : `sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA`[ao.link](https://www.ao.link/#/token/sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA)
-* ALT水龙头 : `qOyriGqikTM1RxJ_n4HQ-27E5fnnW97cln8phLvjebc` [ao.link](https://www.ao.link/#/entity/qOyriGqikTM1RxJ_n4HQ-27E5fnnW97cln8phLvjebc)
-* AolottoFoundation : `5PwOcPRPmAJH_Fd-tXlGzISbeUxInGXl8pvu-tIUvwI` [ao.link](https://www.ao.link/#/entity/5PwOcPRPmAJH_Fd-tXlGzISbeUxInGXl8pvu-tIUvwI)
+* Telegram:  [https://t.me/aolotto](https://t.me/aolotto)
+
