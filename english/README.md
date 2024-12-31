@@ -27,7 +27,7 @@ Aolotto is the first decentralized lottery protocol on [**AO**](https://ao.arwea
 
 With Aolotto, you can **Bet to Win** (place bets for a chance at the grand prize) and **Bet to Mint** (bet to mine tokens). The total supply of $ALT (Ao Lotto Token) is 210 million, with no tokens reserved for the team. 100% of the tokens are distributed to the community through the **Bet2Mint** mechanism. Additionally, 40% of the protocol’s revenue will be used for dividends and buybacks, benefiting $ALT holders. The ALT/USDC liquidity pool will launch on Permaswap, where users can either hold $ALT for long-term rewards or sell it for short-term profits.
 
-Aolotto is more than just a lottery game—it’s the heart of **LottoFi**. We invite developers and creators to join us in building a community-driven ecosystem centered around $ALT. LottoFi envisions a borderless gaming and content environment, akin to a decentralized PowerBall. Just as PlayTech dominates global gambling technology, LottoFi aims to leverage decentralized technologies to redefine the gaming and content space. [**Join LottoFi**](https://docs.aolotto.com/cn/lottofi) today!
+Aolotto is more than just a lottery game—it’s the heart of **LottoFi**. We invite developers and creators to join us in building a community-driven ecosystem centered around $ALT. LottoFi envisions a borderless gaming and content environment, akin to a decentralized PowerBall. Just as PlayTech dominates global gambling technology, LottoFi aims to leverage decentralized technologies to redefine the gaming and content space. [**Join LottoFi**](lottofi.md) today!
 
 ## Why AO?
 
