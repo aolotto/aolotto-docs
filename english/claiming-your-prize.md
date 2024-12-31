@@ -2,7 +2,7 @@
 
 If you're reading this, congratulations — you've won! In Aolotto, claiming your prize is easy, and you don't need any identification. The process is fully anonymous to protect the privacy of winners.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2edc50a9-69d8-41a9-9aa5-feb8db46f755/a9e1d57b-9162-491f-a715-c4d7c5117d03/image.png)
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 To claim your prize, simply click on your user avatar to go to your profile page. In the top right corner, you’ll find the **Claim Prize** button. Once your prize account balance is greater than 0, the claim button will become active. After clicking it and confirming, your prize ($wUSDC) will be transferred to your personal wallet, minus any applicable taxes.
 
