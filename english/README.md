@@ -21,37 +21,51 @@ layout:
 
 # 👏 Welcome
 
-**Aolotto** is the first decentralized lottery protocol built on [Arweave AO](https://ao.arweave.dev/), which is Simple, Transparent, and Open. Each round lasts 24 hours and ends with a draw by algorithms. The block hash after the round ends, the number of bets, and other factors are used as the seed for the algorithm to generate a 3-digit lucky number between 000-999. The bets that match perfectly will share 50% of the total prize pool, The remaining 50% will be used for the next round as the basic rewards.
+Aolotto is the first decentralized lottery protocol on [**AO**](https://ao.arweave.dev/). It pioneers the $1 on-chain lottery. Users can participate anonymously and without permission, with the entire betting and drawing process governed by the protocol's fair and transparent algorithms. Aolotto is not affiliated with any private entity or institution, and operates entirely through community governance and decentralization.
 
-Currently, we've only launched a pool for $ALT([altoken](usdalt.md)), which is the profit-sharing token of the **Aolotto** ecosystem. The **AOLOTTO\*ALT** pool only supports using $ALT to buy or bet.  All the $ALT will be 100% fairly launched to the community. Early birds can get for free via [the faucet](faucet.md) . In the future, **Aolotto** will gradually launch other pools for the AO standard tokens. The **AOLOTTO\*AO** pool based on the AO native token will be launched after February 2025 when $AO is circulated.
+**Fairness and Transparency** are the core principles behind Aolotto’s design. The code is 100% open-source. Click [here](https://github.com/aolotto/protocols) to view the source code, and click [here](https://www.ao.link/#/entity/3IYRZBvph5Xx9566RuGWdLvUHnOcG8cHXT95s1CYRBo) to verify the protocol’s CA: `3IYRZBvph5Xx9566RuGWdLvUHnOcG8cHXT95s1CYRBo`.
 
-Compared to centralized lottery agencies, **Aolotto** has a 100% payout rate, and the fairness and transparency of both betting and drawing are completely ensured by the algorithm, which cannot be black-boxed. **Aolotto** stands for **AO** (short for Arweave AO) + **lotto**. [AO](https://ao.arweave.dev/) is a decentralized parallel computer built on the [Arweave](https://arweave.org/) permanent network. Before using **Aolotto**, you need to understand and master the basic AOS knowledge and skills. The AO [cookbook](https://cookbook_ao.arweave.dev/) can help you get started.
+With Aolotto, you can **Bet to Win** (place bets for a chance at the grand prize) and **Bet to Mint** (bet to mine tokens). The total supply of $ALT (Ao Lotto Token) is 210 million, with no tokens reserved for the team. 100% of the tokens are distributed to the community through the **Bet2Mint** mechanism. Additionally, 40% of the protocol’s revenue will be used for dividends and buybacks, benefiting $ALT holders. The ALT/USDC liquidity pool will launch on Permaswap, where users can either hold $ALT for long-term rewards or sell it for short-term profits.
 
-### Guides
+Aolotto is more than just a lottery game—it’s the heart of **LottoFi**. We invite developers and creators to join us in building a community-driven ecosystem centered around $ALT. LottoFi envisions a borderless gaming and content environment, akin to a decentralized PowerBall. Just as PlayTech dominates global gambling technology, LottoFi aims to leverage decentralized technologies to redefine the gaming and content space. [**Join LottoFi**](https://docs.aolotto.com/cn/lottofi) today!
 
-The **AOLOTTO\*ALT** pool currently only supports interaction on AOS. The Web Application will be released soon. Interacting with AOS is not complicated. You can master the essential commands in 10 minutes by following the guidelines below.
+## Why AO?
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Betting</strong></mark></td><td>Common betting options include quick pick and manual pick.</td><td></td><td><a href="betting.md">betting.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Querying</strong></mark></td><td>Checking the information and status of the betting process</td><td></td><td><a href="querying.md">querying.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Claim Rewards</strong></mark></td><td>Send a message to claim the rewards to your process/wallet.</td><td></td><td><a href="claim-rewards.md">claim-rewards.md</a></td></tr></tbody></table>
+[AO](https://ao.arweave.dev/) represents a revolutionary leap in blockchain technology, following in the footsteps of Bitcoin and Ethereum. Decentralized applications built on AO offer infinite scalability and permanent access. With AO, users can initiate on-chain transactions without incurring high GAS fees, providing Aolotto with an experience that rivals or even surpasses Web 2.0. Say goodbye to waiting in queues and network congestion—AO ensures a seamless user experience.
 
-### Get to know the Rules
+## How to Get Started
 
-Understanding the rules of the **Aolotto** protocol can help you make better betting decisions.
+Getting started with **Aolotto** is simple. Begin to install the [**Arconnect**](https://www.arconnect.io/) browser wallet extension. For browsers that don't support extensions, you can also use Arweave online wallet, [**arweave.app**](https://arweave.app/wallet/0/tx-list). Follow the steps below, and you’ll be ready to play in under 5 minutes!
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Round Switching</strong></mark></td><td>A round ends every 24 hours and triggers the lottery draw</td><td></td><td><a href="draw-and-rules.md#round-switching">#round-switching</a></td></tr><tr><td><mark style="color:purple;"><strong>Lucky Numbers</strong></mark></td><td>Lucky numbers are drawn by algorithms without human control.</td><td></td><td><a href="draw-and-rules.md#lucky-numbers">#lucky-numbers</a></td></tr><tr><td><mark style="color:purple;"><strong>Rewards Distribution</strong></mark></td><td>Rewards are distributed in proportion to the bets placed by each winner.</td><td></td><td><a href="draw-and-rules.md#rewards-distribution">#rewards-distribution</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Betting</strong></mark></td><td>Betting Interface Example and Instructions</td><td></td><td><a href="betting.md">betting.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Deposit</strong></mark></td><td>Deposit funds for betting in $wUSDC via AOX cross-chain.</td><td></td><td><a href="querying.md">querying.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Claiming Prize</strong></mark></td><td>Instructions for claiming your prize and important considerations after winning.</td><td></td><td><a href="claim-rewards.md">claim-rewards.md</a></td></tr></tbody></table>
 
-### Get $ALT token
+## Understanding the Rules
 
-$ALT is the profit-sharing token of the **Aolotto** ecosystem, with a total supply of 210,000,000, and it is 100% fairly issued to the community. $ALT holders can share 90% of the profits contributed by all pools in the **Aolotto** ecosystem.
+Understanding Aolotto’s protocol mechanics and rules will help you make better betting decisions.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Faucet</strong></mark></td><td>Airdrop 10% of the total supply to early birds via the faucet.</td><td></td><td><a href="faucet.md">faucet.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Betting-as-Mining</strong></mark></td><td>70% of the total supply is linearly minted by Betting-as-Mining.</td><td></td><td><a href="usdalt.md">usdalt.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Contributor's Fund</strong></mark></td><td>The 20% held by the Aolotto Foundation will be awarded to community contributors</td><td></td><td><a href="usdalt.md#gong-xian-zhe-ji-li">#gong-xian-zhe-ji-li</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Draw Time and Round Switch</strong></mark></td><td>Draw times and how rounds transition.</td><td></td><td><a href="draw-and-rules.md#round-switching">#round-switching</a></td></tr><tr><td><mark style="color:purple;"><strong>Lucky Number</strong></mark></td><td>The lucky number is drawn using an algorithm, ensuring no human manipulation.</td><td></td><td><a href="draw-and-rules.md#lucky-numbers">#lucky-numbers</a></td></tr><tr><td><mark style="color:purple;"><strong>Winners and Prize Distribution</strong></mark></td><td>How winners are determined and the prize distribution method.</td><td></td><td><a href="draw-and-rules.md#rewards-distribution">#rewards-distribution</a></td></tr></tbody></table>
 
-### Official Links
+## Getting $ALT
 
-* Discord : [https://discord.com/invite/BFhkUCRjmF](https://discord.com/invite/BFhkUCRjmF)
-* X(twitter) :  [@aolotto\_dao](https://x.com/aolotto_dao)
-* Github : [https://github.com/aolotto/aolotto](https://github.com/aolotto/aolotto)
-* AOLOTTO\*ALT Pool process : `2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY` [ao.link](https://www.ao.link/#/entity/2vheopvdwEfont-jQC_G9--6bV2hGn-IzlHxsq4CLWY)
-* $ALT token process :  `sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA`[ao.link](https://www.ao.link/#/token/sdqQuIU6WNT1zVNculn814nVhol2XXhDxqgCrUpCtlA)
-* The faucet: `qOyriGqikTM1RxJ_n4HQ-27E5fnnW97cln8phLvjebc` [ao.link](https://www.ao.link/#/entity/qOyriGqikTM1RxJ_n4HQ-27E5fnnW97cln8phLvjebc)
-* Aolotto Foundation : `5PwOcPRPmAJH_Fd-tXlGzISbeUxInGXl8pvu-tIUvwI` [ao.link](https://www.ao.link/#/entity/5PwOcPRPmAJH_Fd-tXlGzISbeUxInGXl8pvu-tIUvwI)
+A total supply of 210 million $ALT, 90% of which can be earned via the Bet2Mint mechanism, and 10% is used as mining rewards (ALTb) for early users. ALTb can be converted into $ALT during the betting process.
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Bet2Mint</strong></mark></td><td>Learn about the mining principles behind Bet2Mint.</td><td></td><td><a href="faucet.md">faucet.md</a></td></tr><tr><td><mark style="color:purple;"><strong>ALTb&#x26;Faucet</strong></mark></td><td>Claim ALTb through the faucet.</td><td></td><td><a href="usdalt.md">usdalt.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Minting Tax</strong></mark></td><td>A 20% minting tax is levied to support protocol operations and community development.</td><td></td><td><a href="usdalt.md#gong-xian-zhe-ji-li">#gong-xian-zhe-ji-li</a></td></tr></tbody></table>
+
+## **Protocol Information**
+
+* Payment Token CA: 7zH9dlMNoxprab9loshv3Y7WG45DOny\_Vrq9KrXObdQ
+* Betting and Minting CA: 3IYRZBvph5Xx9566RuGWdLvUHnOcG8cHXT95s1CYRBo
+* Prize Pool and Draw CA: 7vTXHQK2yJJHDwFyJRSoXXU5fF4FQYLd8PjTNlHpVj0
+* Aolotto Foundation CA: 3JLHNobQvmwjhb-wVmcj0dukyVHgBHAbg8L8hZc0LpA
+* Buyback & Burn CA: ntlTMR1pEt6dyRrfy2rdAeQI90LlO8eXK8N-wB68Ft0
+* ALTb Claim CA (Faucet): d7rD\_KozquZU8T5nDoBngFpnW2Qk6WeNTAaTER8RX6c
+
+## **Official Links**
+
+* Website:[https://aolotto.com](https://aolotto.com)
+* ARNS: ar://aolotto (permanent link via Wayfinder decentralized gateway)
+* Discord: [https://discord.gg/BFhkUCRjmF](https://discord.gg/BFhkUCRjmF)
+* X (Twitter): [@aolotto\_dao](https://twitter.com/aolotto_dao)
+* GitHub: [https://github.com/aolotto/aolotto](https://github.com/aolotto/aolotto)
+* Telegram: [https://t.me/aolotto](https://t.me/aolotto)
 
