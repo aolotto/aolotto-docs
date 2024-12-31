@@ -54,17 +54,25 @@ The $ALT minting mechanism is integrated into Aolotto's betting protocol, with t
 
 _Notes: The minting tax is collected by AolottoFundation and managed through the AolottoFundation governance contract._
 
+### ALTb
+
+10% of the tokens will be allocated as minting buffs (ALTb) to reward early users. Accounts holding the minting buffs (ALTb) will receive additional $ALT rewards on top of the regular Bet2Mint rewards when placing bets.
+
+$$
+AdditionalRewardPerBet = Math.min(Minting Reward Per Bet, ALTb Balance)
+$$
+
+_For example, if a user bets $1 and earns a minting reward of 200 $ALT through Bet2Mint, and simultaneously holds an ALTb balance of 2000 ALTb in their account, they will receive an additional 200 $ALT on top of the basic minting reward. This bet will result in a total reward of 400 $ALT, with 1800 ALTb remaining after ALTb consumption._
+
 ### **Faucet**
 
-10% of the tokens are distributed through the faucet as a minting buff (ALTb) to reward early users. Users with the minting buff (ALTb) will convert it into $ALT when placing a bet, adding it to the $ALT rewards earned via the Bet2Mint mechanism. Each community member can claim the minting buff (ALTb) once for free from the faucet, with the available amount of ALTb decreasing as the faucet balance declines.
+The faucet is the only way to obtain minting buffs (ALTb). Each user can claim ALTb for free once through the faucet. The amount of ALTb received is not fixed and will decrease as the faucet balance diminishes.
 
-* Minting Buff (ALTb) = Faucet Balance \* 0.0001
-* Minting Speed = 1 - Total Circulating Supply / Maximum Supply
-* Minted $ALT per Bet = MIN(Minting Buff \* 0.01 \* Bet Amount($USD) \* Minting Speed, Minting Buff Balance)
-* Minted Tokens ($ALT) = Minted $ALT per Bet \* 0.8
-* Minting Tax ($ALT) = Minted $ALT per Bet \* 0.2
+$$
+ALTb Claim Amount = Faucet Balance × 0.0001
+$$
 
-_Notes: When the faucet balance drops below 100,000 $ALT (expected after the 53,469th claim), the distribution will proceed based on the fixed amount \* 0.0001 standard until the balance is exhausted, and the faucet will be permanently closed. The $ALT released via ALTb will be subject to the same 20% minting tax as the $ALT released through the Bet2Mint mechanism, which is collected by the AolottoFoundation and managed within its governance contract._
+_Notes: When the faucet balance drops below 100,000 $ALT (expected after the 53,469th claim), the distribution will proceed based on the fixed amount \* 0.0001 standard until the balance is exhausted, and the faucet will be permanently closed._&#x20;
 
 ## **Token Holder Dividends**
 
