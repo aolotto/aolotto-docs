@@ -26,7 +26,7 @@ AOX支持从交易所帐户直接充值到AR钱包，推荐用户选择Base和BS
 
 ## 钱包中显示wUSDC余额
 
-如过你的AR钱包是Arconncet，如果钱包中没有看到wUSDC资产的余额，是因为你还未在钱包中添加wUSDC资产，可以参照如下步骤添加并显示wUSDC
+如果你的AR钱包是Arconncet，如果钱包中没有看到wUSDC资产的余额，是因为你还未在钱包中添加wUSDC资产，可以参照如下步骤添加并显示wUSDC
 
 1. Arconnect中选择设置 -> 代币
 2. 点击导入代币，代币类型选择为Ao-Token;
