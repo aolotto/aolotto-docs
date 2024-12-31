@@ -2,7 +2,7 @@
 
 The betting process is very simple, similar to traditional games like Pick3. You can choose any 3-digit number (000-999), set the bet amount, and pay with $wUSDC to place the bet.
 
-<figure><img src=".gitbook/assets/tokenomics.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 1. The game progresses in rounds, and participants will automatically place their bets on the latest ongoing round.
 2. The payment token used is [$wUSDC](https://ao.link/#/token/7zH9dlMNoxprab9loshv3Y7WG45DOny_Vrq9KrXObdQ), transferred cross-chain via AOX. The minimum bet amount is $1, and the maximum is $100. No gas fees are required (though once the AO mainnet is live, there may be negligible gas fees, with the gas cost in $AO not included in the bet amount). Once the payment is confirmed, the bet is successfully placed.
