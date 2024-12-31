@@ -4,7 +4,7 @@
 * [🎲 Betting](betting.md)
 * [🔍 Deposit](deposit.md)
 * [🌟 Drawing & Prizes](drawing-and-prizes.md)
-* [💸 Claim Rewards](claim-rewards.md)
+* [💸 Claiming Your Prize](claiming-your-prize.md)
 * [🪙 $ALT](usdalt.md)
 * [🚰 Faucet](faucet.md)
 * [🌳 LottoFi](lottofi.md)
