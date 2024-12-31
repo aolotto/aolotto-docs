@@ -69,7 +69,7 @@ Once the lucky number is generated, only the bets with an exact 3-digit match wi
 Grand Prize Calculation:
 
 $$
-Grand Prize=(Base Prize+Total Bets)×0.5
+Grand Prize=(Base Prize+Total Bets Amount)×0.5
 $$
 
 1. **If there are bets that match the lucky number**: The grand prize will be divided proportionally among the bettors who have matched the lucky number. For example, if the lucky number is 002 and the grand prize is $9000, Player A has placed $2 worth of bets that match the lucky number, while Player B has placed $1 worth of matching bets. Then, Player A will receive $6000, and Player B will receive $3000.
