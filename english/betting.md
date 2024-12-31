@@ -9,7 +9,7 @@ The betting process is very simple, similar to traditional games like Pick3. You
 3. Each bet generates a permanent ticket stored on Arweave, similar to a traditional lottery ticket. These tickets stored on Arweave are atomic assets, discoverable like NFTs, and have collectible value. \[[Example of a chain-based lottery ticket](https://kmu4rbzchrloqp3ypunbd4y345hrhritxwufx7dg5ymkbce6anhq.arweave.net/UynIhyI8Vug_eH0aEfMb508TxRO9qFv8Zu4YoIieA08)]
 4. Minting rewards and ALTb release are tied to the Bet2Mint mechanism. Minting rewards are the basic $ALT given after a bet is placed, while ALTb release is a bonus added on top of the basic reward. Minting buffs are additional rewards for early users, and not all participants will have access to them. \[[Learn more about Bet2Mint](https://docs.aolotto.com/en/usdalt#bet2mint)]
 
-After placing your bet, you’ll need to wait for the drawing. The results will be posted in real-time on Aolotto’s [official X](https://x.com/aolotto_dao) (formerly Twitter) and [Discord](https://discord.gg/BFhkUCRjmF). You can also check your win status or view past drawings in your personal center or the [Draws](https://dev.aolotto.com/#/draws) page.
+After placing your bet, you’ll need to wait for the drawing. The results will be posted in real-time on Aolotto’s [official X](https://x.com/aolotto_dao) (formerly Twitter) and [Discord](https://discord.gg/BFhkUCRjmF). You can also check your win status or view past drawings in your personal center or the [Draws](https://aolotto.com/#/draws) page.
 
 ## **Recommended Betting Strategy**
 
