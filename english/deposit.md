@@ -2,7 +2,7 @@
 
 To participate in Aolotto betting, payments are made using $wUSDC. This is a stablecoin wrapped by Ethereum's USDC, transferred via AOX. With AOX, you can easily deposit or withdraw funds from your Ethereum wallet  or exchange wallet. $wUSDC allows you to make payments and transfers within the AO ecosystem without gas fees, making it ideal for small transactions.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 1. Go to [AOX](https://aox.xyz/#/beta) and click on the cross-chain bridge. Select Ethereum as the Source Chain and USDC as the target asset.
 2. Choose AO as the Target Chain and select wUSDC as the asset.
@@ -22,4 +22,6 @@ If you're using Arconnect and don’t see the wUSDC balance, you may need to man
 3. Enter the $wUSDC Contract Address: `7zH9dlMNoxprab9loshv3Y7WG45DOny_Vrq9KrXObdQ`, then confirm to add it.
 
 **Note:** Your wUSDC deposit will automatically appear in the balance section of your personal center.
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
