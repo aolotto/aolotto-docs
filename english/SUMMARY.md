@@ -2,7 +2,7 @@
 
 * [👏 Welcome](README.md)
 * [🎲 Betting](betting.md)
-* [🔍 Querying](querying.md)
+* [🔍 Deposit](deposit.md)
 * [🌟 Draw & Rules](draw-and-rules.md)
 * [💸 Claim Rewards](claim-rewards.md)
 * [🪙 $ALT](usdalt.md)
