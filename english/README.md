@@ -43,22 +43,22 @@ Getting started with **Aolotto** is simple. Begin to install the [**Arconnect**]
 
 Understanding Aolotto’s protocol mechanics and rules will help you make better betting decisions.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Draw Time and Round Switch</strong></mark></td><td>Draw times and how rounds transition.</td><td></td><td><a href="drawing-and-prizes.md#round-switching">#round-switching</a></td></tr><tr><td><mark style="color:purple;"><strong>Lucky Number</strong></mark></td><td>The lucky number is drawn using an algorithm, ensuring no human manipulation.</td><td></td><td><a href="drawing-and-prizes.md#lucky-numbers">#lucky-numbers</a></td></tr><tr><td><mark style="color:purple;"><strong>Winners and Prize Distribution</strong></mark></td><td>How winners are determined and the prize distribution method.</td><td></td><td><a href="drawing-and-prizes.md#rewards-distribution">#rewards-distribution</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Draw Time and Round Switch</strong></mark></td><td>Draw times and how rounds transition.</td><td></td><td><a href="drawing-and-prizes.md#drawing-time">#drawing-time</a></td></tr><tr><td><mark style="color:purple;"><strong>Lucky Number</strong></mark></td><td>The lucky number is drawn using an algorithm, ensuring no human manipulation.</td><td></td><td><a href="drawing-and-prizes.md#lucky-number">#lucky-number</a></td></tr><tr><td><mark style="color:purple;"><strong>Winners and Prize Distribution</strong></mark></td><td>How winners are determined and the prize distribution method.</td><td></td><td><a href="drawing-and-prizes.md#winners">#winners</a></td></tr></tbody></table>
 
 ## Getting $ALT
 
 A total supply of 210 million $ALT, 90% of which can be earned via the Bet2Mint mechanism, and 10% is used as mining rewards (ALTb) for early users. ALTb can be converted into $ALT during the betting process.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Bet2Mint</strong></mark></td><td>Learn about the mining principles behind Bet2Mint.</td><td></td><td><a href="faucet.md">faucet.md</a></td></tr><tr><td><mark style="color:purple;"><strong>ALTb&#x26;Faucet</strong></mark></td><td>Claim ALTb through the faucet.</td><td></td><td><a href="usdalt.md">usdalt.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Minting Tax</strong></mark></td><td>A 20% minting tax is levied to support protocol operations and community development.</td><td></td><td><a href="usdalt.md#gong-xian-zhe-ji-li">#gong-xian-zhe-ji-li</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Bet2Mint</strong></mark></td><td>Learn about the mining principles behind Bet2Mint.</td><td></td><td><a href="usdalt.md#bet2mint">#bet2mint</a></td></tr><tr><td><mark style="color:purple;"><strong>ALTb&#x26;Faucet</strong></mark></td><td>Claim ALTb through the faucet.</td><td></td><td><a href="faucet.md">faucet.md</a></td></tr><tr><td><mark style="color:purple;"><strong>Minting Tax</strong></mark></td><td>A 20% minting tax is levied to support protocol operations and community development.</td><td></td><td><a href="usdalt.md#aolottofundation-and-minting-tax">#aolottofundation-and-minting-tax</a></td></tr></tbody></table>
 
 ## **Protocol Information**
 
-* Payment Token CA: 7zH9dlMNoxprab9loshv3Y7WG45DOny\_Vrq9KrXObdQ
-* Betting and Minting CA: 3IYRZBvph5Xx9566RuGWdLvUHnOcG8cHXT95s1CYRBo
-* Prize Pool and Draw CA: 7vTXHQK2yJJHDwFyJRSoXXU5fF4FQYLd8PjTNlHpVj0
-* Aolotto Foundation CA: 3JLHNobQvmwjhb-wVmcj0dukyVHgBHAbg8L8hZc0LpA
-* Buyback & Burn CA: ntlTMR1pEt6dyRrfy2rdAeQI90LlO8eXK8N-wB68Ft0
-* ALTb Claim CA (Faucet): d7rD\_KozquZU8T5nDoBngFpnW2Qk6WeNTAaTER8RX6c
+* Payment Token CA: `7zH9dlMNoxprab9loshv3Y7WG45DOny_Vrq9KrXObdQ`
+* Betting and Minting CA: `3IYRZBvph5Xx9566RuGWdLvUHnOcG8cHXT95s1CYRBo`
+* Prize Pool and Draw CA: `7vTXHQK2yJJHDwFyJRSoXXU5fF4FQYLd8PjTNlHpVj0`
+* Aolotto Foundation CA: `3JLHNobQvmwjhb-wVmcj0dukyVHgBHAbg8L8hZc0LpA`
+* Buyback & Burn CA: `ntlTMR1pEt6dyRrfy2rdAeQI90LlO8eXK8N-wB68Ft0`
+* ALTb Claim CA (Faucet): `d7rD_KozquZU8T5nDoBngFpnW2Qk6WeNTAaTER8RX6`c
 
 ## **Official Links**
 
