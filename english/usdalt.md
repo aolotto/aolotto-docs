@@ -76,7 +76,7 @@ _Notes: When the faucet balance drops below 100,000 $ALT (expected after the 53,
 
 ## **Token Holder Dividends**
 
-The Aolotto protocol triggers dividends every 4 hours, with the dividend amount set at 20% of the sales increment. If the sales increment is less than $1,000, it will carry over to the next dividend cycle. Dividends are directly distributed to holders' wallet addresses in the form of $wUSDC minted via the AOX cross-chain bridge.
+The Aolotto protocol triggers dividends every 1 minute, with the dividend amount set at 20% of the sales increment. If the dividend amount is less than $1,000, it will carry over to the next dividend cycle. Dividends are directly distributed to holders' wallet addresses in the form of $wUSDC minted via the AOX cross-chain bridge.
 
 The global lottery market is expected to reach $450 billion by 2025, and the traditional lottery issuers and distributors dominate this lucrative market. Decentralized lotteries will disrupt this landscape in a fairer way. All the profits from Aolotto will be 100% returned to the community, and every $ALT holder will benefit from the continuous development of the platform.
 
