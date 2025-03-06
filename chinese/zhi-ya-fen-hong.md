@@ -1,6 +1,6 @@
 # 质押分红
 
-Aolotto协议总销售额的20%（即累计利润的50%）用于质押分红，每日Aolotto协议的销售新增将于次日00:00(GMT)按照质押者的锁仓$ALT(veALT)占比进行分配，veALT是一种不具备转账属性，并逐日衰减的权益性代币，veALT参照veCRV设计，它是一种为**协调治理激励而创建的概念，**&#x8FD9;和普通的流通性代币略有不&#x540C;**。**
+Aolotto协议总销售额的20%（即累计利润的50%）用于质押分红，每日Aolotto协议的销售新增将于次日00:00(GMT)按照质押者的锁仓$ALT(veALT)占比进行分配，veALT是一种不具备转账属性，并线性衰减的权益性代币，veALT参照veCRV设计，它是一种为**协调治理激励而创建的概念，**&#x8FD9;和普通的流通性代币略有不&#x540C;**。**
 
 用户锁定ALT获得veALT, 不仅可以赚取协议的持续分红，同时还能获得去中心化治理中的投票权益， 当用户参与链上提案的投票时，veALT的数量直接代表了投票权重。
 
@@ -38,7 +38,9 @@ $$veALT = ALT * min(LockDaysLeft / 1440 days,1)$$
 
 #### 增加锁仓数量
 
-将 ALT 添加到锁仓意味着解锁日期将保持不变，但锁定的ALT的数量提升，意味着更多的 veALT。例如Bob 锁定了 100 ALT 4 年，但 2 年后又将 200 ALT 添加到她的锁定中，她将获得 150 veALT（2 年内总共锁定 300 CRV）。在接下来的 2 年里，这个 veALT 将继续衰减至 0：
+将 ALT 添加到锁仓意味着解锁日期将保持不变，但锁定的ALT的数量提升，意味着更多的 veALT。例如Bob 锁定了 100 ALT 4 年，但 2 年后又将 200 ALT 添加到她的锁定中，她将获得 150 veALT（2 年内总共锁定 300 CRV）。在接下来的 2 年里，这个 veALT 将继续衰减至 0
+
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 #### 解除质押
 
@@ -52,9 +54,13 @@ ALT一旦锁仓为veALT，只能在锁定时间到期后才能解除质押，用
 
 ## 通过ALC提升锁仓汇率
 
-ALC(AolottoLuckyClover)是由AolottoFoundation发行的系列NFTs，ALC NFT在Aolotto生态中不仅是身份象征，还能解锁特殊权益，当用户在质押ALT的基础上叠加一枚ALC，可以获得更高的锁仓汇率，例如Bob锁仓100枚ALT4年，获得100veALT, 叠加一枚ALC即可获得120veALT;
+ALC(AolottoLuckyClover)是由AolottoFoundation发行的系列NFTs，ALC NFT在Aolotto生态中不仅是身份象征，还能解锁特殊权益，当用户在质押ALT的基础上叠加一枚ALC，可以获得更高的锁仓汇率，例如Bob锁仓100枚ALT 4年，获得100veALT, 叠加一枚ALC即可获得120veALT;
 
-不同类型的ALC对应的提升比例不同，目前
+不同类型的ALC对应的提升比例不同，参照下表：
+
+<table><thead><tr><th>ALC类型</th><th width="181.43359375">CA</th><th data-type="number">发行总量</th><th width="111.7109375">提升比率</th><th>获取方式</th></tr></thead><tbody><tr><td>AolottoLuckyClover - OG Edition</td><td>PURLGdY5k7ujpBM_j_5XkKbnE9Rv9ta8cr7EOPWYRqk</td><td>5000</td><td>0.2</td><td>aopump, bazar</td></tr></tbody></table>
+
+
 
 ## 每日分红
 
@@ -70,11 +76,12 @@ ALC(AolottoLuckyClover)是由AolottoFoundation发行的系列NFTs，ALC NFT在Ao
 
 
 
-##
+## 质押驱动LottoFi
 
 ## 链上治理
 
-锁仓ALT不仅
+* veALT 余额代表用户在 Aolotto DAO 中的投票权，这使得他们能够**对链上提案进行投票**。
+* 此外，Aolotto 治理的一个关键部分是**权重投票**。未来LottoFi生态中的。通过成功通过的 DAO 投票，Curve 上的流动性池可以添加到 GaugeController，使其有资格接收 CRV 代币发行。权重决定每个池收到多少 CRV。每周**四 00:00 UTC**都会应用更新后的权重。有关[投票](https://resources.curve.fi/governance/voting/)和[权重的更多信息](https://resources.curve.fi/reward-gauges/gauge-weights/)
 
 
 
