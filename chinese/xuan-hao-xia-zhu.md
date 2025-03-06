@@ -2,7 +2,7 @@
 
 投注方式下注十分简单，类似传统产品中的Pick3, 任意选择3位数号码(000-999), 设置投注数量，使用$wUSDC支付后即可完成投注
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 游戏逐轮进行，参与者默认投注到当前进行中的最新轮次；
 2. 支付代币为通过AOX跨链过来的[$wUDSC,](https://www.ao.link/#/token/7zH9dlMNoxprab9loshv3Y7WG45DOny_Vrq9KrXObdQ) 最小投注额度为$1, 最大投注额度为$100, 无需支付Gas费（AO主网上线后可能会存在忽略不计的Gas,GAS消耗为$AO不包含在投注金额内），确认支付后投注成功；
