@@ -8,4 +8,4 @@
 * [🪙 $ALT](usdalt.md)
 * [🚰 水龙头](shui-long-tou.md)
 * [🌳 LottoFi](lottofi.md)
-* [质押分红](zhi-ya-fen-hong.md)
+* [🔓 质押分红](zhi-ya-fen-hong.md)
