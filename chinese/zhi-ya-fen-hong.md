@@ -49,7 +49,7 @@ $$
 用户发起质押后，协议支持在任意时间解除质押，但更提倡用户在到期后解除，提前解除质押，用户将承担一定比例的罚没成本，例如，Bob锁仓100ALT到4年后，2年后Bob希望提前解除质押获得流动资金，那么Bob解除质押后实际可退还50个ALT，剩余50个ALT将作为损耗用于销毁；
 
 $$
-unlockALT = ALT * max(1-LockTimeLeft/1440 days,0 )
+unlockALT = ALT * min(1-LockTimeLeft/LockedTime,1 )
 $$
 
 Bob如果选择到期后解除质押，则可以全额退还100ALT。
