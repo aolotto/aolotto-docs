@@ -8,3 +8,4 @@
 * [🪙 $ALT](usdalt.md)
 * [🚰 Faucet](faucet.md)
 * [🌳 LottoFi](lottofi.md)
+* [🔓 Staking](staking.md)
