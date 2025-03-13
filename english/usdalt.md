@@ -84,7 +84,7 @@ To encourage early adoption, Aolotto features a Bet2Mint mechanism and token-hol
 
 Note: On March 20, 2025, the protocol will officially upgrade token-holding dividends to staking dividends.
 
-For more details, click Staking Dividends.
+For more details, click [Staking Dividends](staking.md).
 
 ## **Buyback and Burn**
 
