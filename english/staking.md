@@ -68,7 +68,7 @@ If Bob waits until the lock expires, she can withdraw the full 100 ALT without p
 
 AolottoLuckyClover (ALC) is a series of NFTs issued by Aolotto Foundation. Besides serving as a status symbol, ALC grants special privileges within the LottoFi ecosystem. By combining ALC with ALT staking, users can increase their veALT balance.For example, if Bob locks 100 ALT for 4 years, she normally receives 100 veALT. However, if she adds an ALC NFT, her veALT balance increases to 120 veALT.Different types of ALC provide varying boost rates, as shown in the table below:
 
-<table><thead><tr><th>Type</th><th width="181.43359375">CA</th><th data-type="number">Total Supply</th><th width="111.7109375">Boost Rate</th><th>Acquisition Method</th></tr></thead><tbody><tr><td>AolottoLuckyClover - OG Edition</td><td>PURLGdY5k7ujpBM_j_5XkKbnE9Rv9ta8cr7EOPWYRqk</td><td>5000</td><td>0.2</td><td>aopump, bazar</td></tr></tbody></table>
+<table><thead><tr><th>Type</th><th width="181.43359375">CA</th><th data-type="number">Total Supply</th><th width="111.7109375">Boost Rate</th><th>Acquisition Method</th></tr></thead><tbody><tr><td>AolottoLuckyClover - OG Edition</td><td>PURLGdY5k7ujpBM_j_5XkKbnE9Rv9ta8cr7EOPWYRqk</td><td>5000</td><td>0.2</td><td><a href="https://aopump.fun/#/trade/PURLGdY5k7ujpBM_j_5XkKbnE9Rv9ta8cr7EOPWYRqk">aopump.fun</a>, <a href="https://bazar.arweave.dev/#/asset/PURLGdY5k7ujpBM_j_5XkKbnE9Rv9ta8cr7EOPWYRqk">bazar</a></td></tr></tbody></table>
 
 ## Dividend Distribution
 
