@@ -60,7 +60,7 @@ ALC(AolottoLuckyClover)是由AolottoFoundation发行的系列NFTs，ALC NFT在Ao
 
 不同类型的ALC对应的提升比例不同，参照下表：
 
-<table><thead><tr><th>ALC类型</th><th width="181.43359375">CA</th><th data-type="number">发行总量</th><th width="111.7109375">提升比率</th><th>获取方式</th></tr></thead><tbody><tr><td>AolottoLuckyClover - OG Edition</td><td>PURLGdY5k7ujpBM_j_5XkKbnE9Rv9ta8cr7EOPWYRqk</td><td>5000</td><td>0.2</td><td>aopump.fun, bazar</td></tr></tbody></table>
+<table><thead><tr><th>ALC类型</th><th width="181.43359375">CA</th><th data-type="number">发行总量</th><th width="111.7109375">提升比率</th><th>获取方式</th></tr></thead><tbody><tr><td>AolottoLuckyClover - OG Edition</td><td>PURLGdY5k7ujpBM_j_5XkKbnE9Rv9ta8cr7EOPWYRqk</td><td>5000</td><td>0.2</td><td><a href="https://aopump.fun/#/trade/PURLGdY5k7ujpBM_j_5XkKbnE9Rv9ta8cr7EOPWYRqk">aopump.fun</a>, <a href="https://bazar.arweave.dev/#/asset/PURLGdY5k7ujpBM_j_5XkKbnE9Rv9ta8cr7EOPWYRqk">bazar</a></td></tr></tbody></table>
 
 
 
