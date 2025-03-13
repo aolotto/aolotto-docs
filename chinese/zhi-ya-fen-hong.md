@@ -1,6 +1,6 @@
 # 🔓 质押分红
 
-Aolotto协议总销售额的20%（即累计利润的50%）用于质押分红，每日Aolotto协议的销售新增将于次日00:00(GMT)按照质押者的锁仓ALT(veALT)占比进行分配，veALT是一种不具备转账属性，并线性衰减的权益性代币，veALT参照veCRV设计，它是一种为**协调治理和激励而创建的概念，**&#x8FD9;和普通的流通性代币略有不&#x540C;**。**
+Aolotto协议总销售额的20%（即累计利润的50%）用于质押分红，每日Aolotto协议的销售新增将于次日按照质押者的锁仓ALT(veALT)占比进行分配，veALT是一种不具备转账属性，并线性衰减的权益性代币，veALT参照veCRV设计，它是一种为**协调治理和激励而创建的概念，**&#x8FD9;和普通的流通性代币略有不&#x540C;**。**
 
 用户锁定ALT获得veALT, 不仅可以按照占比赚取协议的持续分红，还能获得去中心化治理中的投票权益， 当用户参与链上提案的投票时，veALT的数量直接代表了投票权重。
 
@@ -24,7 +24,7 @@ $$
 
 #### veALT衰减
 
-用户拥有的 veCRV 数量将随着时间的推移而线性衰减，对应锁仓公式中的`LockTimeLeft` ,当锁定时间不变的情况下，当前时间越大，实时的veALT余额越少
+用户拥有的 veALT 数量将随着时间的推移而线性衰减，对应锁仓公式中的`LockTimeLeft` ,当锁定时间不变的情况下，当前时间越大，实时的veALT余额越少
 
 * 1枚ALT锁仓剩余7天 = 0.00486 veALT
 * 1枚ALT锁仓剩余6天 = 0.00417 veALT
@@ -36,13 +36,13 @@ $$
 
 用户可以不断延长锁仓（或一次性将锁仓时间延长至4年之后）从而增加实时的veALT余额，如果 Bob 锁定了 100 ALT 4 年，那么 3 年后她就只剩下 25 veALT，因为她的锁仓剩余时间是 1 年。如果她在 3 年后再次将锁定时间延长至 4 年，她将再次拥有 100 veALT：
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/vealt1.png" alt=""><figcaption></figcaption></figure>
 
 #### 增加锁仓数量
 
 将 ALT 添加到锁仓意味着解锁日期将保持不变，但锁定的ALT的数量提升，也能提升 veALT的数量。例如Bob 锁定了 100 ALT 4 年，但 2 年后又将 200 ALT 添加到她的锁定中，她将获得 150 veALT（2 年内总共锁定 300 CRV）。在接下来的 2 年里，这个 veALT 将继续衰减至 0
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/vealt2.png" alt=""><figcaption></figcaption></figure>
 
 #### 解除质押
 
