@@ -22,7 +22,7 @@ Aolotto is the first decentralized lottery protocol based on AO , pioneering $1 
 
 $ALT (AoLottoToken) is the glue of the Aolotto community and the circulating currency of the LottoFi ecosystem. The maximum supply is capped at 210,000,000, with an initial supply of 0. Of the total supply, 90% (189,000,000) will be minted through the [Bet2Mint](usdalt.md#bet2mint) mechanism, and 10% (21,000,000) will be distributed as a minting buff ($ALTb) to early users via the [faucet](usdalt.md#faucet).
 
-* **Token Dividends**: 20% of Aolotto's cumulative sales ($USD) will be distributed proportionally to $ALT token holders as dividends.
+* **Staking Dividends**: 20% of Aolotto's cumulative sales ($USD) will be distributed proportionally to $ALT stakers as dividends.
 * **Buyback & Burn**: 20% of Aolotto's cumulative sales ($USD) will be used to buy back and burn circulating $ALT tokens, promoting token circulation and stabilizing market cap. This mechanism also gives users the option to sell for short-term profits or hold for long-term dividends.
 * **Ecosystem Currency**: $ALT serves as both a currency and a proof of rights within the LottoFi ecosystem, such as using $ALT to purchase game items or staking $ALT to unlock special skills or content.
 * **Community Governance**: Token holders have the right to participate in decentralized governance through proposals and votes, influencing the future of the LottoFi ecosystem.
@@ -74,13 +74,17 @@ $$
 
 _Notes: When the faucet balance drops below 100,000 $ALT (expected after the 53,469th claim), the distribution will proceed based on the fixed amount \* 0.0001 standard until the balance is exhausted, and the faucet will be permanently closed._&#x20;
 
-## **Token Holder Dividends**
+## Staking Dividends
 
-The Aolotto protocol triggers dividends every 1 minute, with the dividend amount set at 20% of the sales increment. If the dividend amount is less than $1,000, it will carry over to the next dividend cycle. Dividends are directly distributed to holders' wallet addresses in the form of $wUSDC minted via the AOX cross-chain bridge.
+Aolotto protocol distributes dividends daily, allocating 20% of the increase in sales revenue. Dividends are paid out in $wUSDC, issued via the AOX cross-chain bridge.
 
-The global lottery market is expected to reach $450 billion by 2025, and the traditional lottery issuers and distributors dominate this lucrative market. Decentralized lotteries will disrupt this landscape in a fairer way. All the profits from Aolotto will be 100% returned to the community, and every $ALT holder will benefit from the continuous development of the platform.
+By 2025, the global lottery market is expected to reach $450 billion, with traditional lottery issuers and distributors monopolizing the profits. Decentralized lotteries offer a fairer and more transparent alternative, challenging this dominance. Aolotto returns 100% of its revenue to the community, ensuring that every $ALT holder benefits from its long-term growth.
 
-The Bet2Mint mechanism and token dividends encourage early user participation. Early participants can earn approximately 300 $ALT tokens by betting $1. When Aolotto's cumulative sales exceed $500 million (1/1000th of the global lottery market share), the direct dividend for each $ALT could be around $0.5. Apart from the entertainment and excitement of betting itself, the dividend offer the potential for a 300x investment return or even more.
+To encourage early adoption, Aolotto features a Bet2Mint mechanism and token-holding dividends. Early participants who bet $1 can receive approximately 300 $ALT tokens. Once Aolotto’s total sales surpass $500 million (0.1% of the global lottery market), each $ALT token is projected to generate $0.5 in direct dividend payouts. Beyond the entertainment value of betting, this dividend structure offers an investment return of 300x or more.
+
+Note: On March 20, 2025, the protocol will officially upgrade token-holding dividends to staking dividends.
+
+For more details, click Staking Dividends.
 
 ## **Buyback and Burn**
 
