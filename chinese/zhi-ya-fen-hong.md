@@ -60,7 +60,7 @@ ALC(AolottoLuckyClover)是由AolottoFoundation发行的系列NFTs，ALC NFT在Ao
 
 不同类型的ALC对应的提升比例不同，参照下表：
 
-<table><thead><tr><th>ALC类型</th><th width="181.43359375">CA</th><th data-type="number">发行总量</th><th width="111.7109375">提升比率</th><th>获取方式</th></tr></thead><tbody><tr><td>AolottoLuckyClover - OG Edition</td><td>PURLGdY5k7ujpBM_j_5XkKbnE9Rv9ta8cr7EOPWYRqk</td><td>5000</td><td>0.2</td><td>aopump, bazar</td></tr></tbody></table>
+<table><thead><tr><th>ALC类型</th><th width="181.43359375">CA</th><th data-type="number">发行总量</th><th width="111.7109375">提升比率</th><th>获取方式</th></tr></thead><tbody><tr><td>AolottoLuckyClover - OG Edition</td><td>PURLGdY5k7ujpBM_j_5XkKbnE9Rv9ta8cr7EOPWYRqk</td><td>5000</td><td>0.2</td><td>aopump.fun, bazar</td></tr></tbody></table>
 
 
 
@@ -70,13 +70,13 @@ ALC(AolottoLuckyClover)是由AolottoFoundation发行的系列NFTs，ALC NFT在Ao
 
 #### 分红来源
 
-分红来源于彩票协议的销售利润，及协议累计销售额的20%，以及未来LottoFi生态产生的额外收益，分红以美金结算，分发的资产为AOX发行的跨链USDC （wUSDC）, CA：
+分红来源于彩票协议的销售利润，及协议累计销售额的20%，以及未来LottoFi生态产生的额外收益，分红以美金结算，分发的资产为AOX发行的跨链USDC （wUSDC）
+
+CA：`7zH9dlMNoxprab9loshv3Y7WG45DOny_Vrq9KrXObdQ`
 
 #### 提现分红
 
-每日结算后的分红将会自动添加的质押受益人的账户中，用户需手工提取到钱包，单次最下提取金额不小于$1美金；
-
-
+每日结算后的分红将会自动添加的质押受益人的账户中，用户需手工提取到钱包，单次最下提取金额不小于1美金；
 
 ## veALT的应用场景
 
@@ -85,8 +85,8 @@ ALC(AolottoLuckyClover)是由AolottoFoundation发行的系列NFTs，ALC NFT在Ao
 
 ## 协议信息：
 
-1. CA：
-2. 开源：
+1. CA：_<mark style="background-color:purple;">上线后公布</mark>_
+2. 开源：_<mark style="background-color:purple;">上线后公布</mark>_
 
 
 
