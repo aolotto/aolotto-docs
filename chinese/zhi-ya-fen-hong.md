@@ -85,8 +85,8 @@ CA：`7zH9dlMNoxprab9loshv3Y7WG45DOny_Vrq9KrXObdQ`
 
 ## 协议信息：
 
-1. CA：_<mark style="background-color:purple;">上线后公布</mark>_
-2. 开源：_<mark style="background-color:purple;">上线后公布</mark>_
+1. CA: `kqDiKjXCwO16RJmjJqSNDbqdMVbrCaplEh7KnUHinlA`
+2. Open Source: [https://github.com/aolotto/protocols/blob/main/stake.lua](https://github.com/aolotto/protocols/blob/main/stake.lua)
 
 
 
