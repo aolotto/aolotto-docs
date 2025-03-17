@@ -91,6 +91,6 @@ The dividends settled daily will be automatically added to the staking beneficia
 
 ## Protocol Information
 
-1. CA: _<mark style="background-color:purple;">Announced after launch.</mark>_
-2. Open Source: _<mark style="background-color:purple;">Announced after launch.</mark>_
+1. CA:  `kqDiKjXCwO16RJmjJqSNDbqdMVbrCaplEh7KnUHinlA`
+2. Open Source:  [https://github.com/aolotto/protocols/blob/main/stake.lua](https://github.com/aolotto/protocols/blob/main/stake.lua)
 
